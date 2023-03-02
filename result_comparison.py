@@ -2,6 +2,7 @@ from model.model import CoT_RNA_Transfer
 import argparse
 from create_dataset import *
 from misc import *
+import matplotlib.pyplot as plt
 
 logger = logging.getLogger(__name__)
 
@@ -133,19 +134,42 @@ def main():
     np.savetxt('outputs/pred.txt', pred.numpy().astype(int), fmt='%d', delimiter=",")
 
     ### get ground truth for input msa
-    train_pdb_data_pickle_file = 'RNA_DATASET_PDB_DATA.pickle'
-    if os.path.exists(train_pdb_data_pickle_file):
-        with open(train_pdb_data_pickle_file, 'rb') as handle:
-            train_pdb_data = pickle.load(handle)
+
+    test_pdb_data_pickle_file = 'RNA_TESTSET_PDB_DATA.pickle'
+    if os.path.exists(test_pdb_data_pickle_file):
+        with open(test_pdb_data_pickle_file, 'rb') as handle:
+            test_pdb_data = pickle.load(handle)
     rna_fam_name = args.input_MSA.split('/')[-1].split('.')[0]
-    if rna_fam_name in train_pdb_data:
-        train_label = np.ones((L, L)) * -100    ##### ignore index is -100
-        for k, v in train_pdb_data[rna_fam_name].items():
+    if rna_fam_name in test_pdb_data:
+        test_label = np.ones((L, L)) * -100    ##### ignore index is -100
+        for k, v in test_pdb_data[rna_fam_name].items():
             i, j = k[0], k[1]
             if abs(i-j) > 4:
-                lbl = distance_to_37(v[-1]) if args.num_classes==37 else distance_to_2(v[-1])
-                train_label[i, j] = lbl
-                train_label[j, i] = lbl
+                lbl = distance_to_37(v[-1])
+                if lbl <= -1:
+                    lbl2 = 100
+                elif lbl <16:
+                    lbl2 = 1  ##### lbl is 1 (contact) if distance is smaller than 10A, which corresponds to label 0,1,2,...,15
+                elif lbl >= 16:
+                    lbl2 = 0 ##### lbl is 0 (non-contact) if distance is larger than 10A, which corresponds to label 16,17,18,....
+                test_label[i, j] = lbl2
+                test_label[j, i] = lbl2
+
+        test_label[test_label == -100] = 0
+
+        # test_label = torch.from_numpy(test_label).long().unsqueeze(0)
+        print(f"labels pre-processed: {L} x {L} matrix with 37/2 classes!")
+        pred = pred.numpy().astype(int)
+
+        element_compare = pred== test_label
+
+        plt.imshow(element_compare * 1)
+        plt.colorbar()
+        plt.show()
+
+
+
+
 
 
 if __name__ == '__main__':
