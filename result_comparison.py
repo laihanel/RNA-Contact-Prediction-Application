@@ -75,7 +75,7 @@ def msa_to_embed(msa_path, max_seqs=200, AminoAcids='HETL'):
 def main():
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--input_MSA', default='RNA_TESTSET/MSA_pydca/RF01998.faclean', type=str)
+    parser.add_argument('--input_MSA', default='RNA_TESTSET/MSA_pydca/RF00001.faclean', type=str)
     parser.add_argument('--model', default='pretrained_models/model.chk', type=str)
     args = parser.parse_args()
 
@@ -300,7 +300,8 @@ def main():
 
         plt.style.use('seaborn-deep')
         plt.figure(figsize=(10, 6))
-        number_of_bins = int(max(number_of_cuts1 + number_of_cuts2 + number_of_cuts3)/2)
+        # number_of_bins = int(max(number_of_cuts1 + number_of_cuts2 + number_of_cuts3)/6)
+        number_of_bins = 10
         kwargs = dict(alpha=0.5, bins=number_of_bins)
         hist_muti = [number_of_cuts1, number_of_cuts2, number_of_cuts3]
         plt.hist(hist_muti, bins=number_of_bins, histtype='bar', label=['all', 'wrong', 'collect'])
@@ -308,7 +309,7 @@ def main():
         # plt.hist(number_of_cuts3, **kwargs, color='g', label='correct', histtype='bar')
         # plt.hist(number_of_cuts2, **kwargs, color='b', label='wrong', histtype='bar')
         plt.gca().set(title=f'Frequency Histogram of Number of Cuts \n Total number of Cuts for {rna_fam_name}: {sum(number_of_cuts1)}, Wrong Prediction: {sum(number_of_cuts2)}, Correct Prediction: {sum(number_of_cuts3)}', ylabel='Frequency', xlabel='Number of cuts')
-        plt.xlim(0, number_of_bins*2+1)
+        plt.xlim(0, max(number_of_cuts1 + number_of_cuts2 + number_of_cuts3)+1)
         plt.legend()
         plt.tight_layout()
         plt.show()
