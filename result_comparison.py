@@ -3,6 +3,7 @@ import argparse
 from create_dataset import *
 from misc import *
 import matplotlib.pyplot as plt
+import pandas as pd
 
 logger = logging.getLogger(__name__)
 
@@ -75,7 +76,7 @@ def msa_to_embed(msa_path, max_seqs=200, AminoAcids='HETL'):
 def main():
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--input_MSA', default='RNA_TESTSET/MSA_pydca/RF00001.faclean', type=str)
+    parser.add_argument('--input_MSA', default='RNA_TESTSET/MSA_pydca/RF00017.faclean', type=str)
     parser.add_argument('--model', default='pretrained_models/model.chk', type=str)
     args = parser.parse_args()
 
@@ -104,7 +105,7 @@ def main():
     ### evaluate model
     model.eval()
     with torch.no_grad():
-        pred, feat = model(adapted_msa)
+        pred, feat, prob = model(adapted_msa)
     pred = pred.cpu()
 
     L = pred.shape[0]
@@ -121,7 +122,7 @@ def main():
     pred = pred + delta + delta.T
 
     ### save raw output
-    dist = pred
+    dist = pred.clone().detach()
     np.savetxt('outputs/dist.txt', dist.numpy())
 
     ### save top-L prediction
@@ -151,9 +152,15 @@ def main():
         test_label = torch.from_numpy(test_label).long().unsqueeze(0)
 
         test_label = test_label.cpu().squeeze(0) - mask
+
+        label = test_label.clone().detach()
+        label[label <= -1] = 37
+        label[label >= 100] = 37
+
         test_label[test_label <= -1] = 100
         test_label[test_label < 16] = 1  ##### lbl is 1 (contact) if distance is smaller than 10A, which corresponds to label 0,1,2,...,15
         test_label[test_label >= 16] = 0
+
         ppv = (pred * test_label).sum() / int(2 * 1 * L)  ##### position-wise multiplication to find "positive prediction", divided by 2L (total number of predictions)
         print(rna_fam_name, ppv.item())
         test_label[test_label == -100] = 0
@@ -162,6 +169,7 @@ def main():
         print(f"labels pre-processed: {L} x {L} matrix with 37/2 classes!")
         pred = pred.numpy().astype(int)
         test_label = test_label.numpy().astype(int)
+        label = label.numpy().astype(int)
 
 
         # #
@@ -315,54 +323,44 @@ def main():
         plt.show()
 
 
+        prob_dict = {}
+        for i, j in pred_list:
+            prob_dict[(i, j)] = [(i, j)]   # add the contact index
+            labels = [0] * 37
+            if (i, j) in pred_correct_list:
+                prob_dict[(i, j)].append("correct")  # add prediction
+            else:
+                prob_dict[(i, j)].append("wrong")  # add prediction
+            if label[i, j] != 37:
+                labels[label[i, j]] = 1
 
-        #
-        # number_of_cuts = []
-        # cut_result = {}
-        # for contact in pred_list:
-        #     c_i, c_j = contact
-        #     number_of_cut = 0
-        #     for predicted in pred_wrong_list:
-        #         p_i, p_j = predicted
-        #         if (c_i < p_i and c_j < p_j and p_j > c_i) or (p_i < c_i and p_j < c_j and p_j > c_i) :
-        #             result[c_i, c_j] = 1
-        #             number_of_cut += 1
-        #         else:
-        #             continue
-        #     cut_result[contact] = number_of_cut
-        #     number_of_cuts.append(number_of_cut)
-        #
-        # plt.plot(np.linspace(0, L, num=L), number_of_cuts, color='maroon')
-        # plt.ylim((0, 30))
-        # plt.title(f"Number of Cuts for {rna_fam_name} by Wrong Prediction: {sum(number_of_cuts)}")
-        # plt.show()
-        #
-        #
-        #
-        # number_of_cuts = []
-        # cut_result = {}
-        # for contact in pred_list:
-        #     c_i, c_j = contact
-        #     number_of_cut = 0
-        #     for predicted in pred_correct_list:
-        #         p_i, p_j = predicted
-        #         if (c_i < p_i and c_j < p_j and p_j > c_i) or (p_i < c_i and p_j < c_j and p_j > c_i) :
-        #             result[c_i, c_j] = 1
-        #             number_of_cut += 1
-        #         else:
-        #             continue
-        #     cut_result[contact] = number_of_cut
-        #     number_of_cuts.append(number_of_cut)
-        #
-        # plt.plot(np.linspace(0, L, num=L), number_of_cuts, color='maroon')
-        # plt.ylim((0, 30))
-        # plt.title(f"Number of Cuts for {rna_fam_name} by Correct Prediction: {sum(number_of_cuts)}")
-        # plt.show()
+            prob_dict[(i, j)].append(labels)  # add label
 
-        # plt.imshow(result * 1)
-        # plt.colorbar()
-        # plt.title(f"blue: wrong prediction - {result[result==1].sum()}, yellow: right GT crossed GT - {result[result==2].sum()}")
-        # plt.show()
+            prob_dict[(i, j)].append(prob[i, j].tolist())  # add pred_prob
+
+            prob_dict[(i, j)].append(dist[i, j].tolist())  # add P < 10 A
+
+            numbers = 0
+            prob_dict[(i, j)].append([])
+            for predicted in pred_list:
+                k, l = predicted
+                if (i <= k and j < l and j > k) or (k < i and l <= j and l > i):
+                    numbers += 1
+                    prob_dict[(i, j)][5].append((k, l))  # add cuts index
+            prob_dict[(i, j)].append(numbers)  # add number of cuts
+
+        df = pd.DataFrame.from_dict(prob_dict, orient ='index', columns=['Contact_Index', 'Prediction', 'Label', 'Pred_Prob', 'P < 10A', 'Cuts_Index', 'Number_of_Cuts'])
+        df.sort_values(by=["P < 10A"])
+        df.to_csv(f"outputs/{rna_fam_name}_cuts.csv", index=False)
+
+
+
+
+
+
+
+
+
 
 
 

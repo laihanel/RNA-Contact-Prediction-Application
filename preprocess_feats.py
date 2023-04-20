@@ -69,6 +69,7 @@ def main():
 
     model = model.cuda()
 
+
     ####### RNA TRAIN SET
     train_dataset = CoCoNetDataset(data_dir='RNA_DATASET/')
     train_rna_lens = train_dataset.get_refseqs_len()

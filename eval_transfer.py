@@ -145,7 +145,7 @@ def main():
     state_dict = torch.load(weight_path)    ##### get state dict (protein)
     learnable_model = torch.nn.DataParallel(learnable_model)
     learnable_model = learnable_model.cuda()
-    learnable_model.load_state_dict(state_dict, strict=True)
+    # learnable_model.load_state_dict(state_dict, strict=True)
     print("learned model loaded!!!")
 
     rna_fam_names = test_dataset.rna_fam_names

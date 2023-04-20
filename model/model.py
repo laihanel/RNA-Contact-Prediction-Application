@@ -57,8 +57,8 @@ class CoT_RNA_Transfer(nn.Module):
         out = out.permute(0, 2, 3, 1)
         out = torch.softmax(out, dim=-1)
         pred = torch.sum(out[..., :16], dim=-1)[0]
-
         return pred, feat
+        # return pred, feat, out[0]  # out[0] for result_comparision.py
 
 class Model(BaseModel):
     def __init__(self):
