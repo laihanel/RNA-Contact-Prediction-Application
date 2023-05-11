@@ -1,37 +1,18 @@
 #### import from coconet
-from pydca.contact_visualizer.contact_visualizer import DCAVisualizer
-from pydca.fasta_reader import fasta_reader
-from inputreader import InputReader
-
-import subprocess
-import numpy as np
-import logging
-import os, errno
-import glob
-from datetime import datetime
-import pickle
-import random
-from pathlib import Path
-from argparse import ArgumentParser
-import sys
 
 #### import from co-evolution transformer
-from model.model import Model, ClassificationHead1, ClassificationHead2
+from CoT_Transfer_Learning.model import Model, ClassificationHead1, ClassificationHead2
 
 #### essential packages
 import argparse
-import torch
-import torch.nn as nn
 import torchvision
 import torch.backends.cudnn as cudnn
 from torch.utils.tensorboard import SummaryWriter
 from tqdm import tqdm
 
-from misc import *
-from create_dataset import *
+from CoT_Transfer_Learning.misc import *
+from CoT_Transfer_Learning.create_dataset import *
 
-import time as time
-import datetime
 import copy
 
 logger = logging.getLogger(__name__)
@@ -78,7 +59,7 @@ def main():
     model = model.cuda()
 
     ####### RNA TRAIN SET
-    train_dataset = CoCoNetDataset(data_dir='RNA_DATASET/')
+    train_dataset = CoCoNetDataset(data_dir='CoT_Transfer_Learning/RNA_DATASET/')
     train_rna_lens = train_dataset.get_refseqs_len()
     train_pdb_data_pickle_file = 'RNA_DATASET_PDB_DATA.pickle'
     if os.path.exists(train_pdb_data_pickle_file):
@@ -91,7 +72,7 @@ def main():
     print("RNA_DATASET loaded!")
 
     ####### RNA TEST SET
-    test_dataset = CoCoNetDataset(data_dir='RNA_TESTSET/')
+    test_dataset = CoCoNetDataset(data_dir='CoT_Transfer_Learning/RNA_TESTSET/')
     test_rna_lens = test_dataset.get_refseqs_len()
     test_pdb_data_pickle_file = 'RNA_TESTSET_PDB_DATA.pickle'
     if os.path.exists(test_pdb_data_pickle_file):

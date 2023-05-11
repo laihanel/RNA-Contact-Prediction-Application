@@ -1,12 +1,14 @@
-from model.model import CoT_RNA_Transfer
+from CoT_Transfer_Learning.model import CoT_RNA_Transfer
 import argparse
-from create_dataset import *
-from misc import *
+from CoT_Transfer_Learning.create_dataset import *
+from CoT_Transfer_Learning.misc import *
 import matplotlib.pyplot as plt
 import pandas as pd
-
+import numpy as np
 logger = logging.getLogger(__name__)
-
+'''
+The code is used to calculate the number of cuts.
+'''
 np.set_printoptions(threshold=sys.maxsize)
 def msa_to_embed(msa_path, max_seqs=200, AminoAcids='HETL'):
     tmp_path = msa_path.replace('.faclean', '.fa')
@@ -41,7 +43,7 @@ def msa_to_embed(msa_path, max_seqs=200, AminoAcids='HETL'):
         L = len(lines[1].strip())
 
     program = [
-        os.path.join(os.path.dirname(__file__), "bin/a3m_to_feat"),
+        os.path.join(os.path.dirname(__file__), "CoT_Transfer_Learning/bin/a3m_to_feat"),
         "--input",
         tmp_path,
         "--max_gap",
@@ -352,18 +354,6 @@ def main():
         df = pd.DataFrame.from_dict(prob_dict, orient ='index', columns=['Contact_Index', 'Prediction', 'Label', 'Pred_Prob', 'P < 10A', 'Cuts_Index', 'Number_of_Cuts'])
         df.sort_values(by=["P < 10A"])
         df.to_csv(f"outputs/{rna_fam_name}_cuts.csv", index=False)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 if __name__ == '__main__':

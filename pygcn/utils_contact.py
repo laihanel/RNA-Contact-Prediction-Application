@@ -112,7 +112,7 @@ def load_data(path="../data/cora/", dataset="hiv"):
     # build graphf
     idx = np.arange(0, len(idx_features_labels), dtype=np.int32)
     idx_map = {j: i for i, j in enumerate(idx)}
-    edges_matrix = pd.read_csv("../data/hiv/pred_hiv.txt", sep=",", header=None)
+    edges_matrix = pd.read_csv("../CoT_Transfer_Learning/data/hiv/pred_hiv.txt", sep=",", header=None)
     pred = edges_matrix.to_numpy().astype(int)
     edges_unordered = matrix_to_array(pred)
     edges = np.array(list(map(idx_map.get, edges_unordered.flatten())),
