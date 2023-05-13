@@ -95,11 +95,11 @@ def matrix_to_array(pred):
 
 
 
-def load_data(path="../data/cora/", dataset="hiv"):
+def load_data(input_msa, input_meta, input_contact, dataset="hiv"):
     """Load citation network dataset (hiv only for now)"""
     print('Loading {} dataset...'.format(dataset))
-    seqFileName = '../data/hiv/hiv_V3_B_C_nu_clean.fasta'
-    meta_data = '../data/hiv/results_V3_B_C_meta.csv'
+    seqFileName = input_msa
+    meta_data = input_meta
 
     df = read_data(seqFileName, seq_type='nu', is_main=True)
     metaData = read_data(meta_data, is_main=False)
@@ -112,7 +112,7 @@ def load_data(path="../data/cora/", dataset="hiv"):
     # build graphf
     idx = np.arange(0, len(idx_features_labels), dtype=np.int32)
     idx_map = {j: i for i, j in enumerate(idx)}
-    edges_matrix = pd.read_csv("../CoT_Transfer_Learning/data/hiv/pred_hiv.txt", sep=",", header=None)
+    edges_matrix = pd.read_csv(input_contact, sep=",", header=None)
     pred = edges_matrix.to_numpy().astype(int)
     edges_unordered = matrix_to_array(pred)
     edges = np.array(list(map(idx_map.get, edges_unordered.flatten())),
@@ -169,4 +169,6 @@ def sparse_mx_to_torch_sparse_tensor(sparse_mx):
     return torch.sparse.FloatTensor(indices, values, shape)
 
 if __name__ == "__main__":
-    adj, features, labels, idx_train, idx_val, idx_test = load_data()
+    adj, features, labels, idx_train, idx_val, idx_test = load_data("../CoT_Transfer_Learning/data/hiv/hiv_V3_B_C_nu_clean.fasta",
+                                                                    "../CoT_Transfer_Learning/data/hiv/results_V3_B_C_meta.csv",
+                                                                    "../CoT_Transfer_Learning/outputs/pred.txt")

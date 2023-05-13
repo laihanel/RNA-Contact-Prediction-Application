@@ -30,6 +30,12 @@ parser.add_argument('--hidden', type=int, default=16,
                     help='Number of hidden units.')
 parser.add_argument('--dropout', type=float, default=0.5,
                     help='Dropout rate (1 - keep probability).')
+parser.add_argument('--input_msa', type=str, default="../CoT_Transfer_Learning/data/hiv/hiv_V3_B_C_nu_clean.fasta",
+                    help='Path of input msa data')
+parser.add_argument('--intput_meta', type=str, default="../CoT_Transfer_Learning/data/hiv/results_V3_B_C_meta.csv",
+                    help='Path of input meta data')
+parser.add_argument('--input_contact', type=str, default="../CoT_Transfer_Learning/outputs/pred.txt",
+                    help='Path of input contact (prediction from CoT)')
 
 args = parser.parse_args()
 args.cuda = not args.no_cuda and torch.cuda.is_available()
@@ -40,7 +46,7 @@ if args.cuda:
     torch.cuda.manual_seed(args.seed)
 
 # Load data
-adj, features, labels, idx_train, idx_val, idx_test = load_data()
+adj, features, labels, idx_train, idx_val, idx_test = load_data(args.input_msa, args.input_meta, args.input_contact)
 
 # Model and optimizer
 model = GCN(nfeat=features.shape[1],

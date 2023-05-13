@@ -43,3 +43,20 @@ python setup.py install
   * PyTorch 0.4 or 0.5
   * Python 2.7 or 3.6
 
+## Example
+```bash
+# contact prediction
+cd CoT_Transfer_Learning
+unzip data/HIV/HIV.zip -d data/HIV/
+python tidyup_data.py --input data/HIV/hiv_V3_B_C_nu_clean.fasta -- output data/HIV/hiv.fasta
+python run_inference.py --input_MSA data/HIV/hiv.fasta
+
+# deepbreaks
+cd deepbreaks/Examples
+
+
+# GCN prediction
+cd ../pygcn
+python train.py
+```
+
