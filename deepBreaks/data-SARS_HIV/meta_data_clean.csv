@@ -1,0 +1,901 @@
+,Accession.ID,Location,Host,Patient.age,Gender,Clade,Variant,variant_short
+hCoV-19/England/LOND-1352661/2021,EPI_ISL_2517656,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/DL-CT30/2021,EPI_ISL_2426214,Asia / India / Delhi,Human,56,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Spain/CT-BST9925432235/2021,EPI_ISL_2534468,Europe / Spain / Cataluna / Torelló,Human,18,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Italy/TAA-IGA-1900597885/2021,EPI_ISL_2517122,Europe / Italy / Trentino-Alto Adige,Human,46,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDC-FG-036855/2021,EPI_ISL_2527796,North America / USA / California,Human,50,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Russia/MOW-RII-MH27400S/2021,EPI_ISL_3007777,Europe / Russia / Moscow / Moscow,Human,54,Female,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDPH839/2021,EPI_ISL_2537412,North America / USA / California / San Francisco County,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/PLYM-161AED3/2021,EPI_ISL_2515907,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC9384/2021,EPI_ISL_2518289,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-135369D/2021,EPI_ISL_2517791,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-192E4F5/2021,EPI_ISL_3027125,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_608_S64_R1_001/2021,EPI_ISL_2521833,Asia / India / Tamil Nadu / Thanjavur,Human,28,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/QEUH-163BF42/2021,EPI_ISL_2515460,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161B2F4/2021,EPI_ISL_2515771,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161B3A6/2021,EPI_ISL_2515729,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC7E3A/2021,EPI_ISL_2518028,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Portugal/PT8470/2021,EPI_ISL_2536117,Europe / Portugal,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORW-13D3677/2021,EPI_ISL_2519095,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCE228/2021,EPI_ISL_2518902,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Italy/TAA-1900622650/2021,EPI_ISL_3008285,Europe / Italy / Trentino-Alto Adige,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/MH-ACTREC-014/2021,EPI_ISL_2530132,Asia / India / Maharashtra,Human,30,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCE57A/2021,EPI_ISL_2518934,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC8437/2021,EPI_ISL_2518103,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCE826/2021,EPI_ISL_2518958,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Japan/PG-26062/2021,EPI_ISL_1428297,Asia / Japan / Chiba,Human,unknown,unknown,GR,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/SHEF-10E7400/2021,EPI_ISL_3006638,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCD669/2021,EPI_ISL_2518765,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORW-13D3AD5/2021,EPI_ISL_2519125,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/QEUH-163C169/2021,EPI_ISL_2515633,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-165E152/2021,EPI_ISL_2537531,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-166589F/2021,EPI_ISL_2537550,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1350F4A/2021,EPI_ISL_2517358,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/MA-CDC-QDX25392421/2021,EPI_ISL_2527026,North America / USA / Massachusetts,Human,17,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_687_S143_R1_001/2021,EPI_ISL_2521911,Asia / India / Tamil Nadu / Thirunelveli,Human,74,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC75CC/2021,EPI_ISL_2517908,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Ireland/D-NVRL-30IRL75208/2021,EPI_ISL_2533690,Europe / Ireland / Dublin,Human,21-30,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_585_S41_R1_001/2021,EPI_ISL_2521810,Asia / India / Tamil Nadu / Salem,Human,29,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-16659C9/2021,EPI_ISL_2537558,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCA31A/2021,EPI_ISL_2518396,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Russia/SPE-RII-MH18610S/2021,EPI_ISL_2523678,Europe / Russia / Saint Petersburg / Saint Petersburg,Human,61,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_718_S174_R1_001/2021,EPI_ISL_2521941,Asia / India / Tamil Nadu / Tiruvallur,Human,49,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-15F1680/2021,EPI_ISL_2515281,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/KS-GD-SID-21060305789/2021,EPI_ISL_2537266,North America / USA / Kansas,Human,17,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1352F57/2021,EPI_ISL_2517771,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Russia/SPE-RII-36161S/2021,EPI_ISL_2523518,Europe / Russia / Saint Petersburg / Saint Petersburg,Human,42,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-1663336/2021,EPI_ISL_2537649,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1352634/2021,EPI_ISL_2517654,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/QEUH-16415ED/2021,EPI_ISL_2512362,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCA1D4/2021,EPI_ISL_2518376,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163E871/2021,EPI_ISL_2512269,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-135241C/2021,EPI_ISL_2517628,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/PLYM-163C3FA/2021,EPI_ISL_2515474,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/PLYM-161AFB2/2021,EPI_ISL_2515910,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163A59C/2021,EPI_ISL_2515602,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/MA-CDCBI-CRSP_TYYBNGHF4JAGN3XU/2021,EPI_ISL_3007436,North America / USA / Massachusetts,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC8992/2021,EPI_ISL_2518168,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-16619AF/2021,EPI_ISL_2537635,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Switzerland/VS-ICH-2210565508/2021,EPI_ISL_2420215,Europe / Switzerland / Wallis,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Israel/SMC-7005605/2021,EPI_ISL_3022341,Asia / Israel,Human,12,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Ireland/D-NVRL-30IRL75105/2021,EPI_ISL_2533721,Europe / Ireland / Dublin,Human,unknown,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Scotland/CVR7575/2021,EPI_ISL_2517252,Europe / United Kingdom / Scotland,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/SHEF-10E7BDE/2021,EPI_ISL_2521092,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_571_S27_R1_001/2021,EPI_ISL_2521797,Asia / India / Tamil Nadu / Salem,Human,35,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-1661611/2021,EPI_ISL_2537638,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-192E0D3/2021,EPI_ISL_3027099,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/OR-ILSGS02118/2021,EPI_ISL_2342172,Asia / India / Odisha,Human,51,Male,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/QEUH-163C239/2021,EPI_ISL_2515596,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCAF9E/2021,EPI_ISL_2518505,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Ireland/D-NVRL-e22IRL94051/2021,EPI_ISL_2533314,Europe / Ireland / Dublin,Human,21-30,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-1661A24/2021,EPI_ISL_2537566,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/QEUH-194A921/2021,EPI_ISL_3027538,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/PLYM-161AFEF/2021,EPI_ISL_2515756,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-1663275/2021,EPI_ISL_2537694,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/TX-CDC-QDX25497693/2021,EPI_ISL_2529138,North America / USA / Texas,Human,50,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC8033/2021,EPI_ISL_2518054,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC7896/2021,EPI_ISL_2517950,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Israel/SMC-7005515/2021,EPI_ISL_3021802,Asia / Israel,Human,39,Female,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/MO-CDC-QDX25392328/2021,EPI_ISL_2526853,North America / USA / Missouri,Human,56,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Germany/SL-SU-10485051/2021,EPI_ISL_2529477,Europe / Germany / Saarland,Human,19,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_688_S144_R1_001/2021,EPI_ISL_2521912,Asia / India / Tamil Nadu / Thirunelveli,Human,74,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TG-CCMB-CIA2752/2021,EPI_ISL_2441555,Asia / India / Telangana / Vikarabad,Human,9,Male,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Russia/SPE-RII-MH18632S/2021,EPI_ISL_2523708,Europe / Russia / Saint Petersburg / Saint Petersburg,Human,31,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163A532/2021,EPI_ISL_2515514,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDC-FG-035785/2021,EPI_ISL_2525769,North America / USA / California,Human,46,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163E7ED/2021,EPI_ISL_2512165,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCD195/2021,EPI_ISL_2518727,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Spain/NC-CHN-01003388/2021,EPI_ISL_2516722,Europe / Spain / Navarra,Human,58,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Switzerland/SO-ETHZ-33315261/2021,EPI_ISL_2938419,Europe / Switzerland / Solothurn,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCBB02/2021,EPI_ISL_2518628,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/MO-CDC-QDX25392319/2021,EPI_ISL_2526761,North America / USA / Missouri,Human,29,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC964F/2021,EPI_ISL_2518317,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-15F1635/2021,EPI_ISL_2515308,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1353949/2021,EPI_ISL_2517824,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC815E/2021,EPI_ISL_2518069,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-1663424/2021,EPI_ISL_2537650,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_615_S71_R1_001/2021,EPI_ISL_2521840,Asia / India / Tamil Nadu / The Nilgiris,Human,55,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-16619EB/2021,EPI_ISL_2537613,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC7CF4/2021,EPI_ISL_2518011,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161AA84/2021,EPI_ISL_2516273,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-166172D/2021,EPI_ISL_2537653,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-163AB21/2021,EPI_ISL_2515410,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Portugal/PT8444/2021,EPI_ISL_2536091,Europe / Portugal,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/South Korea/KDCA6354/2021,EPI_ISL_3026428,Asia / South Korea,Human,46,Male,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_646_S102_R1_001/2021,EPI_ISL_2521870,Asia / India / Tamil Nadu / Trichy,Human,16,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/MH-ACTREC-124/2021,EPI_ISL_2530308,Asia / India / Maharashtra,Human,25,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Portugal/PT8404/2021,EPI_ISL_2536051,Europe / Portugal,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Wales/PHWC-PYP66T/2021,EPI_ISL_3004585,Europe / United Kingdom / Wales,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-16413E3/2021,EPI_ISL_2512281,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_639_S95_R1_001/2021,EPI_ISL_2521864,Asia / India / Tamil Nadu / Thoothukudi,Human,26,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Spain/CT-HUVH-E17576/2021,EPI_ISL_3009938,Europe / Spain / Catalunya,Human,10,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-165E161/2021,EPI_ISL_2537575,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-15F2AB0/2021,EPI_ISL_2515379,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCDE43/2021,EPI_ISL_2518867,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/PLYM-161AF85/2021,EPI_ISL_2515878,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1350CDA/2021,EPI_ISL_2517328,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/PORT-1E84F60/2021,EPI_ISL_3006331,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161B6E9/2021,EPI_ISL_2515975,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCD14A/2021,EPI_ISL_2518723,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CO-CDC-FG-035665/2021,EPI_ISL_2525613,North America / USA / Colorado,Human,22,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-163AA15/2021,EPI_ISL_2515616,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163A453/2021,EPI_ISL_2515425,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_591_S47_R1_001/2021,EPI_ISL_2521816,Asia / India / Tamil Nadu / Sivagangai,Human,56,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/PLYM-163C3DC/2021,EPI_ISL_2515472,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_622_S78_R1_001/2021,EPI_ISL_2521847,Asia / India / Tamil Nadu / Theni,Human,44,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Wales/PHWC-PYP6CS/2021,EPI_ISL_3004590,Europe / United Kingdom / Wales,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CO-CDC-MMB08765729/2021,EPI_ISL_2525225,North America / USA / Colorado,Human,21,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCA5AB/2021,EPI_ISL_2518434,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-15F5BC9/2021,EPI_ISL_2515296,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Israel/SMC-7005830/2021,EPI_ISL_3022105,Asia / Israel,Human,9,Female,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/JK-NCDC-270978/2021,EPI_ISL_2461974,Asia / India / Jammu and Kashmir,Human,16,Male,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Russia/SPE-RII-35736S/2021,EPI_ISL_2523420,Europe / Russia / Saint Petersburg / Saint Petersburg,Human,22,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1352546/2021,EPI_ISL_2517644,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-163AB03/2021,EPI_ISL_2515612,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-192E64A/2021,EPI_ISL_3026977,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_620_S76_R1_001/2021,EPI_ISL_2521845,Asia / India / Tamil Nadu / The Nilgiris,Human,24,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Wales/PHWC-PYGSF4/2021,EPI_ISL_2707992,Europe / United Kingdom / Wales,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Indonesia/JT-UGM-2118334/2021,EPI_ISL_2503134,Asia / Indonesia / Central Java,Human,49,Female,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCC530/2021,EPI_ISL_2518681,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Italy/TAA-1900623130/2021,EPI_ISL_3008279,Europe / Italy / Trentino-Alto Adige,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC7B33/2021,EPI_ISL_2517987,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Israel/CVL-13786/2021,EPI_ISL_2636346,Asia / Israel / Jerusalem,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Indonesia/JK-GSILab-487777/2021,EPI_ISL_2558732,Asia / Indonesia / Jakarta,Human,34,Male,GH,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-163A9BE/2021,EPI_ISL_2515619,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Portugal/PT8482/2021,EPI_ISL_2536129,Europe / Portugal,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Spain/NC-CHN-01003605/2021,EPI_ISL_2516935,Europe / Spain / Navarra,Human,44,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/PORT-1E850F3/2021,EPI_ISL_3006343,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161BB26/2021,EPI_ISL_2515908,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORW-13DA91D/2021,EPI_ISL_2519931,Europe / United Kingdom / England,Human,unknown,unknown,GV,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/DL-NCDC-2509115/2021,EPI_ISL_2461358,Asia / India / Delhi,Human,13,Female,O,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1351B81/2021,EPI_ISL_2517510,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Scotland/CVR7573/2021,EPI_ISL_2517250,Europe / United Kingdom / Scotland,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163EBF0/2021,EPI_ISL_2512254,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/QEUH-163C07B/2021,EPI_ISL_2515411,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1353712/2021,EPI_ISL_2517798,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/UT-CDC-ASC210106876/2021,EPI_ISL_2528341,North America / USA / Utah,Human,47,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Portugal/PT8433/2021,EPI_ISL_2536080,Europe / Portugal,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Portugal/PT8478/2021,EPI_ISL_2536125,Europe / Portugal,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC8C6C/2021,EPI_ISL_2518203,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-15F5BE7/2021,EPI_ISL_2515322,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1352BAE/2021,EPI_ISL_2517725,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_592_S48_R1_001/2021,EPI_ISL_2521817,Asia / India / Tamil Nadu / Sivagangai,Human,63,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Russia/SPE-RII-MH18798S/2021,EPI_ISL_2523859,Europe / Russia / Saint Petersburg / Saint Petersburg,Human,87,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161A2D7/2021,EPI_ISL_2516255,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Ireland/D-NVRL-30IRL82116/2021,EPI_ISL_2533637,Europe / Ireland / Dublin,Human,31-40,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/KS-KHEL-2333/2021,EPI_ISL_2534254,North America / USA / Kansas,Human,9,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161B8A7/2021,EPI_ISL_2515991,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161BCE7/2021,EPI_ISL_2515847,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-1665A02/2021,EPI_ISL_2537645,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/PLYM-161AD6D/2021,EPI_ISL_2515730,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Mexico/BCS-LANGEBIO_IMSS_1779/2021,EPI_ISL_2942856,North America / Mexico / Baja California Sur,Human,18,Female,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-15F19D2/2021,EPI_ISL_2515341,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCD2CF/2021,EPI_ISL_2518746,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Italy/SAR-Cagliari269/2021,EPI_ISL_2536207,Europe / Italy / Sardinia,Human,49,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-1642C41/2021,EPI_ISL_2512205,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161B77D/2021,EPI_ISL_2515731,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-166564A/2021,EPI_ISL_2537663,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-192E316/2021,EPI_ISL_3027098,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCD1B3/2021,EPI_ISL_2518729,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDC-FG-036912/2021,EPI_ISL_2527837,North America / USA / California,Human,23,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1351064/2021,EPI_ISL_2517372,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Israel/SMC-7006240/2021,EPI_ISL_3024312,Asia / Israel,Human,14,Female,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Portugal/PT8442/2021,EPI_ISL_2536089,Europe / Portugal,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/NV-CDC-LC0059759/2021,EPI_ISL_2305082,North America / USA / Nevada,Human,57,Female,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/DL-ILBS-108796/2021,EPI_ISL_2426177,Asia / India / Delhi / New Delhi,Human,33,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161A19E/2021,EPI_ISL_2516043,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-135132F/2021,EPI_ISL_2517404,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCDCA3/2021,EPI_ISL_2518845,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-1642BEA/2021,EPI_ISL_2512230,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161B968/2021,EPI_ISL_2515969,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/QEUH-164044B/2021,EPI_ISL_2512351,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC8A08/2021,EPI_ISL_2518174,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1352494/2021,EPI_ISL_2517636,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC89DE/2021,EPI_ISL_2518172,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC8877/2021,EPI_ISL_2518154,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORW-13D2A9A/2021,EPI_ISL_2518982,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-1661550/2021,EPI_ISL_2537537,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCA329/2021,EPI_ISL_2518397,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1352EA5/2021,EPI_ISL_2517762,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Portugal/PT8409/2021,EPI_ISL_2536056,Europe / Portugal,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163A23B/2021,EPI_ISL_2515446,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCE04C/2021,EPI_ISL_2518884,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161A35C/2021,EPI_ISL_2516262,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/FL-CDC-QDX25472416/2021,EPI_ISL_2529083,North America / USA / Florida,Human,59,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-135129B/2021,EPI_ISL_2517401,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Russia/SPE-RII-36156S/2021,EPI_ISL_2523511,Europe / Russia / Saint Petersburg / Saint Petersburg,Human,55,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Israel/SMC-7004955/2021,EPI_ISL_3021572,Asia / Israel,Human,10,Female,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-166173C/2021,EPI_ISL_2537585,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORW-13D2C67/2021,EPI_ISL_2519001,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC8895/2021,EPI_ISL_2518156,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/PORT-1E76F9E/2021,EPI_ISL_2708199,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163A3ED/2021,EPI_ISL_2515517,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC9445/2021,EPI_ISL_2518296,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Spain/NC-CHN-01003606/2021,EPI_ISL_2516936,Europe / Spain / Navarra,Human,42,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_596_S52_R1_001/2021,EPI_ISL_2521821,Asia / India / Tamil Nadu / Sivagangai,Human,1,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_704_S160_R1_001/2021,EPI_ISL_2521928,Asia / India / Tamil Nadu / Tiruppur,Human,20,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORW-13D4184/2021,EPI_ISL_2519177,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/MH-ACTREC-082/2021,EPI_ISL_2530229,Asia / India / Maharashtra,Human,45,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-1661927/2021,EPI_ISL_2537627,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCDD82/2021,EPI_ISL_2518857,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CO-CDC-FG-036784/2021,EPI_ISL_2527687,North America / USA / Colorado,Human,33,Female,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Portugal/PT8453/2021,EPI_ISL_2536100,Europe / Portugal,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163A277/2021,EPI_ISL_2515566,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Italy/VEN-IZSVe-21RS1814-4_BL/2021,EPI_ISL_3028165,Europe / Italy / Veneto,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-16197F7/2021,EPI_ISL_2516301,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/QEUH-1619BEC/2021,EPI_ISL_2516288,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163A21D/2021,EPI_ISL_2515573,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDC-FG-036897/2021,EPI_ISL_2527652,North America / USA / California,Human,41,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-16195A2/2021,EPI_ISL_2516155,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1353AFB/2021,EPI_ISL_2517845,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-165E51A/2021,EPI_ISL_2537586,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163A1C5/2021,EPI_ISL_2515569,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163A356/2021,EPI_ISL_2515601,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163E862/2021,EPI_ISL_2512244,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/MH-ACTREC-070/2021,EPI_ISL_2530209,Asia / India / Maharashtra,Human,37,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/UT-CDC-ASC210106497/2021,EPI_ISL_2528635,North America / USA / Utah,Human,21,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-15F2740/2021,EPI_ISL_2515344,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Portugal/PT8480/2021,EPI_ISL_2536127,Europe / Portugal,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/PLYM-161AFFE/2021,EPI_ISL_2515685,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Scotland/QEUH-17938A6/2021,EPI_ISL_2729025,Europe / United Kingdom / Scotland,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-16199F1/2021,EPI_ISL_2516204,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163E880/2021,EPI_ISL_2512285,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161AC9D/2021,EPI_ISL_2516300,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDC-FG-036800/2021,EPI_ISL_2527770,North America / USA / California,Human,22,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-13536AC/2021,EPI_ISL_2517792,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/MH-ACTREC-152/2021,EPI_ISL_2530378,Asia / India / Maharashtra,Human,29,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-163A8EE/2021,EPI_ISL_2515578,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-164287A/2021,EPI_ISL_2512233,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCE792/2021,EPI_ISL_2518956,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Portugal/PT8435/2021,EPI_ISL_2536082,Europe / Portugal,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCD0D4/2021,EPI_ISL_2518719,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Wales/PHWC-PYPIRX/2021,EPI_ISL_3004889,Europe / United Kingdom / Wales,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Indonesia/JT-UGM-2118325/2021,EPI_ISL_2534377,Asia / Indonesia / Central Java,Human,32,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORW-13D2F04/2021,EPI_ISL_2519031,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1352D5D/2021,EPI_ISL_2517747,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161BC50/2021,EPI_ISL_2515856,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Wales/PHWC-PYQWYS/2021,EPI_ISL_3006009,Europe / United Kingdom / Wales,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCAF25/2021,EPI_ISL_2518500,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/PLYM-161AF2B/2021,EPI_ISL_2515667,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-165E19E/2021,EPI_ISL_2537598,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCE10D/2021,EPI_ISL_2518891,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Scotland/CVR7565/2021,EPI_ISL_2517242,Europe / United Kingdom / Scotland,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/PLYM-161AE3D/2021,EPI_ISL_2515849,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORW-13D2D0A/2021,EPI_ISL_2519008,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CO-CDC-FG-036919/2021,EPI_ISL_2527697,North America / USA / Colorado,Human,11,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1351D4F/2021,EPI_ISL_2517530,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_609_S65_R1_001/2021,EPI_ISL_2521834,Asia / India / Tamil Nadu / Thanjavur,Human,72,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1353026/2021,EPI_ISL_2517782,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCD8EB/2021,EPI_ISL_2518791,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-165E37A/2021,EPI_ISL_2537593,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/PHEC-3325E5/2021,EPI_ISL_3003897,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161A170/2021,EPI_ISL_2516283,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/QEUH-1641644/2021,EPI_ISL_2512301,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-1619988/2021,EPI_ISL_2516252,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/QEUH-16409C4/2021,EPI_ISL_2512302,Europe / United Kingdom / England,Human,unknown,unknown,GH,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-135144A/2021,EPI_ISL_2517415,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCBA50/2021,EPI_ISL_2518618,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC8473/2021,EPI_ISL_2518107,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-135186C/2021,EPI_ISL_2517466,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORW-13D2E25/2021,EPI_ISL_2519020,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/NV-NSPHL-LV369455/2021,EPI_ISL_3021107,North America / USA / Nevada,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161B3D3/2021,EPI_ISL_2515722,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/MO-CDC-QDX25392312/2021,EPI_ISL_2526913,North America / USA / Missouri,Human,24,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCDC76/2021,EPI_ISL_2518843,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCA2FF/2021,EPI_ISL_2518394,Europe / United Kingdom / England,Human,unknown,unknown,GV,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Canada/BC-BCCDC-55967/2021,EPI_ISL_2531020,North America / Canada / British Columbia,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDC-FG-036818/2021,EPI_ISL_2527774,North America / USA / California,Human,28,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-165E2AA/2021,EPI_ISL_2537545,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161C439/2021,EPI_ISL_2515743,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163A3FC/2021,EPI_ISL_2515512,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Sweden/10081338/2021,EPI_ISL_2415935,Europe / Sweden / Stockholm,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/DL-ILBS-107900/2021,EPI_ISL_2426166,Asia / India / Delhi / New Delhi,Human,32,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCD292/2021,EPI_ISL_2518743,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/QEUH-163C04E/2021,EPI_ISL_2515455,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Italy/TAA-1900625061/2021,EPI_ISL_3008263,Europe / Italy / Trentino-Alto Adige,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163EAD5/2021,EPI_ISL_2512282,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161A86C/2021,EPI_ISL_2516073,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1351DE5/2021,EPI_ISL_2517539,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCBBD5/2021,EPI_ISL_2518640,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC8419/2021,EPI_ISL_2518101,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-135376D/2021,EPI_ISL_2517801,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC8042/2021,EPI_ISL_2518055,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Indonesia/JT-UGM-2118324/2021,EPI_ISL_2534489,Asia / Indonesia / Central Java,Human,50,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-1665808/2021,EPI_ISL_2537549,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDC-FG-036914/2021,EPI_ISL_2527835,North America / USA / California,Human,26,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDC-FG-036840/2021,EPI_ISL_2527755,North America / USA / California,Human,60,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-1665B2D/2021,EPI_ISL_2537607,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_664_S120_R1_001/2021,EPI_ISL_2521888,Asia / India / Tamil Nadu / Trichy,Human,43,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-15F1AFD/2021,EPI_ISL_2515290,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1351B54/2021,EPI_ISL_2517507,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-16421D9/2021,EPI_ISL_2512178,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-15F5CF3/2021,EPI_ISL_2515282,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/VA-CDC-ASC210032566/2021,EPI_ISL_2421958,North America / USA / Virginia,Human,40,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-163A65D/2021,EPI_ISL_2515473,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDC-FG-036722/2021,EPI_ISL_2527597,North America / USA / California,Human,13,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/MH-ACTREC-067/2021,EPI_ISL_2530206,Asia / India / Maharashtra,Human,30,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-166348E/2021,EPI_ISL_2537621,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Spain/IB-HUSE-00807/2021,EPI_ISL_2534395,Europe / Spain / Balearic Islands,Human,67,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/MH-ACTREC-077/2021,EPI_ISL_2530221,Asia / India / Maharashtra,Human,41,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCCF05/2021,EPI_ISL_2518693,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161A213/2021,EPI_ISL_2516070,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/QEUH-163C59A/2021,EPI_ISL_2515412,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/MT-MTPHL-3818708/2021,EPI_ISL_2537383,North America / USA / Montana / Musselshell County,Human,2,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/QEUH-163C11E/2021,EPI_ISL_2515417,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/DL-ILBS-107779/2021,EPI_ISL_2426163,Asia / India / Delhi / New Delhi,Human,36,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_668_S124_R1_001/2021,EPI_ISL_2521892,Asia / India / Tamil Nadu / Trichy,Human,30,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_727_S183_R1_001/2021,EPI_ISL_2521950,Asia / India / Tamil Nadu / Tiruvallur,Human,2,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/MS-CDC-ASC210107077/2021,EPI_ISL_2528944,North America / USA / Mississippi,Human,40,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/SHEF-10EC289/2021,EPI_ISL_2521145,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-1661523/2021,EPI_ISL_2537565,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDC-FG-036874/2021,EPI_ISL_2527563,North America / USA / California,Human,29,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Canada/BC-BCCDC-55895/2021,EPI_ISL_2530909,North America / Canada / British Columbia,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Wales/PHWC-PYQN5T/2021,EPI_ISL_3005772,Europe / United Kingdom / Wales,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDC-QDX25392300/2021,EPI_ISL_2527016,North America / USA / California,Human,52,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCAD58/2021,EPI_ISL_2518482,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC7C03/2021,EPI_ISL_2517998,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/MH-ACTREC-087/2021,EPI_ISL_2530236,Asia / India / Maharashtra,Human,25,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1353A91/2021,EPI_ISL_2517841,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/JK-NCDC-1709359/2021,EPI_ISL_2556567,Asia / India / Jammu and Kashmir,Human,58,Female,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161B661/2021,EPI_ISL_2515998,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-15F5CD5/2021,EPI_ISL_2515337,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1351486/2021,EPI_ISL_2517417,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-15F282F/2021,EPI_ISL_2515294,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1352E1E/2021,EPI_ISL_2517753,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/MH-ACTREC-097/2021,EPI_ISL_2530253,Asia / India / Maharashtra,Human,39,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CO-CDC-ASC210107526/2021,EPI_ISL_2528177,North America / USA / Colorado,Human,36,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC7F82/2021,EPI_ISL_2518045,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-1642B26/2021,EPI_ISL_2512166,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-13522B8/2021,EPI_ISL_2517607,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-13538A6/2021,EPI_ISL_2517816,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCA5BA/2021,EPI_ISL_2518435,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDC-FG-035676/2021,EPI_ISL_2525778,North America / USA / California,Human,21,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Mexico/JAL_INER_IMSS_1173/2021,EPI_ISL_2490496,North America / Mexico / Jalisco,Human,Hospitalized,83,GR,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161C3E1/2021,EPI_ISL_2515977,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-15F15DE/2021,EPI_ISL_2515347,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-161987C/2021,EPI_ISL_2516047,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-16196EB/2021,EPI_ISL_2516091,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Canada/BC-BCCDC-55845/2021,EPI_ISL_2530862,North America / Canada / British Columbia,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDC-FG-036832/2021,EPI_ISL_2527843,North America / USA / California,Human,18,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDC-ASC210107512/2021,EPI_ISL_2528161,North America / USA / California,Human,5,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1351705/2021,EPI_ISL_2517448,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-192FDDB/2021,EPI_ISL_3027393,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161BA92/2021,EPI_ISL_2515753,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/WA-S8097/2021,EPI_ISL_2536630,North America / USA / Washington / King County,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-161992E/2021,EPI_ISL_2516153,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163A5AB/2021,EPI_ISL_2515428,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/MH-ACTREC-108/2021,EPI_ISL_2530270,Asia / India / Maharashtra,Human,45,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-16617E1/2021,EPI_ISL_2537563,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Australia/NSW-1853/2021,EPI_ISL_2876029,Oceania / Australia / New South Wales / Sydney,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Wales/PHWC-PYP7M3/2021,EPI_ISL_3004625,Europe / United Kingdom / Wales,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161B740/2021,EPI_ISL_2515859,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORW-13D2B3D/2021,EPI_ISL_2518989,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161B8F2/2021,EPI_ISL_2515680,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Russia/SPE-RII-MH18651S/2021,EPI_ISL_2523732,Europe / Russia / Saint Petersburg / Saint Petersburg,Human,22,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/MO-CDC-QDX25392331/2021,EPI_ISL_2526851,North America / USA / Missouri,Human,31,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1351D30/2021,EPI_ISL_2517529,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-1661A06/2021,EPI_ISL_2537637,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161A8C6/2021,EPI_ISL_2516159,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Wales/PHWC-PYPZM9/2021,EPI_ISL_3005261,Europe / United Kingdom / Wales,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-1619627/2021,EPI_ISL_2516162,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCAC2E/2021,EPI_ISL_2518465,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCA7F0/2021,EPI_ISL_2518445,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-163A101/2021,EPI_ISL_2515583,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Spain/VC-IBV-98030700/2021,EPI_ISL_3008482,Europe / Spain / Comunitat Valenciana / Valencia,Human,25,Male,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_676_S132_R1_001/2021,EPI_ISL_2521900,Asia / India / Tamil Nadu / Tenkasi,Human,4,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/TX-CDC-QDX25472373/2021,EPI_ISL_2529230,North America / USA / Texas,Human,49,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/MH-ACTREC-039/2021,EPI_ISL_2530163,Asia / India / Maharashtra,Human,30,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-135218E/2021,EPI_ISL_2517590,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Portugal/PT8401/2021,EPI_ISL_2536048,Europe / Portugal,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Spain/CT-HUB00896/2021,EPI_ISL_2516551,Europe / Spain / Catalunya,Human,19,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/PLYM-161AFA3/2021,EPI_ISL_2515982,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_614_S70_R1_001/2021,EPI_ISL_2521839,Asia / India / Tamil Nadu / The Nilgiris,Human,46,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161A617/2021,EPI_ISL_2516256,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/SHEF-10EB545/2021,EPI_ISL_2521135,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/MH-ACTREC-123/2021,EPI_ISL_2530304,Asia / India / Maharashtra,Human,48,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/MH-ACTREC-093/2021,EPI_ISL_2530246,Asia / India / Maharashtra,Human,64,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161B9C2/2021,EPI_ISL_2515855,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-135143B/2021,EPI_ISL_2517414,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/QEUH-16416DB/2021,EPI_ISL_2512337,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Russia/CHE-RII-MH27753S/2021,EPI_ISL_3007816,Europe / Russia / Chelyabinsk / Chelyabinsk,Human,35,Male,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/FL-CDC-ASC210107059/2021,EPI_ISL_2528925,North America / USA / Florida,Human,26,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC88E0/2021,EPI_ISL_2518160,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1350ED4/2021,EPI_ISL_2517352,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDC-FG-036889/2021,EPI_ISL_2527825,North America / USA / California,Human,27,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/SHEF-10EBCE6/2021,EPI_ISL_2521140,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161AB36/2021,EPI_ISL_2516134,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/DL-CT19/2021,EPI_ISL_2426205,Asia / India / Delhi,Human,28,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/OR-OSPHL01250/2021,EPI_ISL_2955413,North America / USA / Oregon / Lane County,Human,32,Female,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/DL-CT87/2021,EPI_ISL_2426247,Asia / India / Delhi,Human,36,Female,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/IN-CDC-ASC210067128/2021,EPI_ISL_2531053,North America / USA / Indiana,Human,51,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Sweden/20236363P/2021,EPI_ISL_2418305,Europe / Sweden / Varmland,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-1352D20/2021,EPI_ISL_2517746,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Guadeloupe/IPP13826/2021,EPI_ISL_2531897,North America / Guadeloupe / Les Abymes,Human,56,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Russia/SPE-RII-MH18557S/2021,EPI_ISL_2523639,Europe / Russia / Saint Petersburg / Saint Petersburg,Human,26,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-1619742/2021,EPI_ISL_2516270,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Scotland/CVR7564/2021,EPI_ISL_2517241,Europe / United Kingdom / Scotland,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/TX-CDC-FG-035592/2021,EPI_ISL_2525601,North America / USA / Texas,Human,32,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_563_S19_R1_001/2021,EPI_ISL_2521789,Asia / India / Tamil Nadu / Salem,Human,47,Male,O,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-16403C6/2021,EPI_ISL_2512318,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Mexico/SIN_CIAD-MZT_S6886/2021,EPI_ISL_2533926,North America / Mexico / Sinaloa,Human,34,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Wales/PHWC-PYQ1CY/2021,EPI_ISL_3005279,Europe / United Kingdom / Wales,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Israel/SMC-7005593/2021,EPI_ISL_3022332,Asia / Israel,Human,45,Female,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/PHEC-332925/2021,EPI_ISL_3003946,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORW-13D2CFE/2021,EPI_ISL_2519007,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BCCE26/2021,EPI_ISL_2518685,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-16656D1/2021,EPI_ISL_2537568,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC89B0/2021,EPI_ISL_2518170,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/OH-21AM-154CO00121/2021,EPI_ISL_2534315,North America / USA / Ohio,Human,19,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-15F2BCC/2021,EPI_ISL_2515320,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/NV-SNPHL-362902/2021,EPI_ISL_2976162,North America / USA / Nevada / Las Vegas,Human,30,Female,GV,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161A310/2021,EPI_ISL_2516209,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_618_S74_R1_001/2021,EPI_ISL_2521843,Asia / India / Tamil Nadu / The Nilgiris,Human,10,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-1641574/2021,EPI_ISL_2512191,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/CA-CDC-FG-036759/2021,EPI_ISL_2527654,North America / USA / California,Human,31,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC97D3/2021,EPI_ISL_2518331,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/TX-CDC-QDX25392294/2021,EPI_ISL_2527003,North America / USA / Texas,Human,48,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/MILK-163A68A/2021,EPI_ISL_2515635,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Wales/PHWC-PYQR3U/2021,EPI_ISL_3005876,Europe / United Kingdom / Wales,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/QEUH-163C0C6/2021,EPI_ISL_2515516,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/LOND-13520FA/2021,EPI_ISL_2517581,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/USA/TX-CDC-ASC210107206/2021,EPI_ISL_2528847,North America / USA / Texas,Human,19,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Netherlands/OV-DR-GD-8936014/2021,EPI_ISL_2933970,Europe / Netherlands / Overijssel / Deventer,Human,unknown,unknown,G,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-164033F/2021,EPI_ISL_2512363,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161B458/2021,EPI_ISL_2515737,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-16197CA/2021,EPI_ISL_2516266,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/HSLL-164229A/2021,EPI_ISL_2512280,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-15F2722/2021,EPI_ISL_2515339,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/ALDP-161B91D/2021,EPI_ISL_2515919,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/DL-ILBS-107832/2021,EPI_ISL_2426164,Asia / India / Delhi / New Delhi,Human,42,Female,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/India/TN-CL_660_S116_R1_001/2021,EPI_ISL_2521884,Asia / India / Tamil Nadu / Trichy,Human,35,Male,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/England/NORT-1BC96F4/2021,EPI_ISL_2518325,Europe / United Kingdom / England,Human,unknown,unknown,GK,VOC Delta GK (B.1.617.2+AY.*) first detected in India,Delta
+hCoV-19/Sweden/20164048P/2021,EPI_ISL_2419056,Europe / Sweden / Gavleborg,Human,unknown,unknown,G,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/LIVE-E02B3C/2021,EPI_ISL_1177931,Europe / United Kingdom / England,Human,unknown,unknown,G,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Lithuania/LTU000_KNS_ANT_05_24_84/2021,EPI_ISL_2509585,Europe / Lithuania / Kauno apskritis,Human,22,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/20263744P/2021,EPI_ISL_2419613,Europe / Sweden / Jamtland Harjedalen,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Switzerland/ZH-UZH-IMV-3ba48281/2021,EPI_ISL_2462481,Europe / Switzerland / Zurich,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/WA-UW-21042662431/2021,EPI_ISL_2503037,North America / USA / Washington,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Slovenia/240708/2021,EPI_ISL_2465561,Europe / Slovenia,Human,61,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/CO-CDC-MMB08813419/2021,EPI_ISL_2441061,North America / USA / Colorado,Human,15,Female,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/CO-CDPHE-2101194082/2021,EPI_ISL_2550420,North America / USA / Colorado,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/UT-UPHL-210603043846/2021,EPI_ISL_2456206,North America / USA / Utah,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-132BE87/2021,EPI_ISL_1174124,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/LOND-1336997/2021,EPI_ISL_1178062,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Japan/YCH0232/2021,EPI_ISL_2565984,Asia / Japan / Yamanashi,Human,75,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/OH-CDC-ASC210107117/2021,EPI_ISL_2529007,North America / USA / Ohio,Human,15,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Scotland/QEUH-13517C9/2021,EPI_ISL_1257650,Europe / United Kingdom / Scotland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-024026/2021,EPI_ISL_1154195,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/MN-MDH-8024/2021,EPI_ISL_2501111,North America / USA / Minnesota,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Netherlands/FR-RIVM-34986/2021,EPI_ISL_2405442,Europe / Netherlands / Friesland,Human,42,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-109814/2021,EPI_ISL_2432453,Europe / Denmark / Hovedstaden,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/SK-NML-55262/2021,EPI_ISL_2564643,North America / Canada / Saskatchewan,Human,19,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Lithuania/LTU000_INMEDICA_407806/2021,EPI_ISL_2428068,Europe / Lithuania / Vilniaus apskritis,Human,55,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/BFC-HMN-21062110202/2021,EPI_ISL_2637999,Europe / France / Bourgogne-Franche-Comte,Human,22,Female,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Norway/12440/2021,EPI_ISL_2483155,Europe / Norway / Innlandet,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Finland/THL-202111725/2021,EPI_ISL_2507621,Europe / Finland,Human,71,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-104979/2021,EPI_ISL_1849486,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-71660/2021,EPI_ISL_1880231,Europe / Denmark / Midtjylland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Egypt/CCHE57357_Wave_3_A_052/2021,EPI_ISL_2566526,Africa / Egypt,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/MILK-1623A2E/2021,EPI_ISL_2485820,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/AB-ABPHL-14115/2021,EPI_ISL_2477861,North America / Canada / Alberta,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Switzerland/SZ-ETHZ-640081/2021,EPI_ISL_2462748,Europe / Switzerland / Schwyz,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-1294DAB/2021,EPI_ISL_1176415,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Lithuania/LTU000_INMEDICA_436826/2021,EPI_ISL_2509754,Europe / Lithuania / Utenos apskritis,Human,23,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/MILK-151DB70/2021,EPI_ISL_1758662,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/AZ-ASU6187/2021,EPI_ISL_2339297,North America / USA / Arizona / Maricopa County,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Spain/MD-HGUGM-685749/2021,EPI_ISL_2483987,Europe / Spain / Madrid,Human,5,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-53147/2021,EPI_ISL_1861201,Europe / Denmark / Syddanmark,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-138E1C5/2021,EPI_ISL_1256890,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-137546E/2021,EPI_ISL_1245065,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/AB-ABPHL-17078/2021,EPI_ISL_2479683,North America / Canada / Alberta,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/CO-CDPHE-2100449095/2021,EPI_ISL_1169660,North America / USA / Colorado,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/UT-UPHL-210602515821/2021,EPI_ISL_2467018,North America / USA / Utah,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/NORT-1BC891A/2021,EPI_ISL_2518162,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Kenya/SS233/2021,EPI_ISL_2603021,Africa / Kenya / Nairobi,Human,11,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/PAC-IHU-4887_Illu1/2021,EPI_ISL_2286394,Europe / France / Provence-Alpes-Cote d'Azur / Marseille,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Italy/LAZ-IFO-03040556/2021,EPI_ISL_2576967,Europe / Italy / Lazio / Rome,Human,unknown,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Japan/PG-45392/2021,EPI_ISL_2338825,Asia / Japan,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-12FCEBD/2021,EPI_ISL_1175856,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Norway/13363/2021,EPI_ISL_2491461,Europe / Norway / Innlandet,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-1391E04/2021,EPI_ISL_1256173,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Italy/CAM-TIGEM-IZSM-COLLI-15796/2021,EPI_ISL_2551069,Europe / Italy / Campania,Human,32,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-12D3DEC/2021,EPI_ISL_1257256,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-76239/2021,EPI_ISL_1884810,Europe / Denmark / Syddanmark,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/CAMC-12D3E52/2021,EPI_ISL_1101776,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/TX-CDC-ASC210032568/2021,EPI_ISL_2421295,North America / USA / Texas,Human,15,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/ARA-CHUGA-1043588630/2021,EPI_ISL_2510217,Europe / France / Auvergne-Rhone-Alpes / Grenoble,Human,28,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/IL-CDC-QDX25576145/2021,EPI_ISL_2599904,North America / USA / Illinois,Human,25,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/AB-ABPHL-14566/2021,EPI_ISL_2478178,North America / Canada / Alberta,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/NY-Wadsworth-21054897-01/2021,EPI_ISL_2448299,North America / USA / New York / Onondaga County,Human,18,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Croatia/2088/2021,EPI_ISL_2420398,Europe / Croatia / The City Zagreb County,Human,55,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-74157/2021,EPI_ISL_1882728,Europe / Denmark / Hovedstaden,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/WA-UW-61238/2021,EPI_ISL_1209162,North America / USA / Washington,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/ULG-12947/2021,EPI_ISL_1241755,Europe / Belgium / Liège,Human,30,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-1389388/2021,EPI_ISL_1243208,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-132F481/2021,EPI_ISL_1174615,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/VA-CDC-LC0065900/2021,EPI_ISL_2480825,North America / USA / Virginia,Human,21,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/MA-CDC-QDX25025390/2021,EPI_ISL_2397565,North America / USA / Massachusetts,Human,29,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/LOND-13368F4/2021,EPI_ISL_1178056,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-75251/2021,EPI_ISL_1883822,Europe / Denmark / Nordjylland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Estonia/16783679/2021,EPI_ISL_2545873,Europe / Estonia / Southern Estonia,Human,55,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/ON-PHL-21-18692/2021,EPI_ISL_2548150,North America / Canada / Ontario,Human,45-49,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-12DC79A/2021,EPI_ISL_1177436,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Norway/13470/2021,EPI_ISL_2549093,Europe / Norway / Oslo,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/20142004P/2021,EPI_ISL_2419340,Europe / Sweden / Vasternorrland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Brazil/SP-IB_110991/2021,EPI_ISL_2493233,South America / Brazil / Sao Paulo,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/BC-BCCDC-45090/2021,EPI_ISL_2527262,North America / Canada / British Columbia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-76546/2021,EPI_ISL_1885117,Europe / Denmark / Hovedstaden,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Switzerland/un-HUG-34262549/2021,EPI_ISL_2405272,Europe / Switzerland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-70610/2021,EPI_ISL_1879181,Europe / Denmark / Hovedstaden,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Spain/NC-CHN-01003122/2021,EPI_ISL_2510546,Europe / Spain / Navarra,Human,59,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/MILK-1386233/2021,EPI_ISL_1242907,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Ireland/D-NVRL-30IRL82667/2021,EPI_ISL_2490967,Europe / Ireland / Dublin,Human,unknown,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/AB-ABPHL-14875/2021,EPI_ISL_2478346,North America / Canada / Alberta,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/NC-CDC-ASC210025748/2021,EPI_ISL_2600101,North America / USA / North Carolina,Human,21,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/NY-PRL-03_09_01D23/2021,EPI_ISL_1258495,North America / USA / New York / New York City,Human,24,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Italy/CAM-TIGEM-IZSM-COLLI-14257/2021,EPI_ISL_2282041,Europe / Italy / Campania,Human,56,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-12C5390/2021,EPI_ISL_1177007,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-48430/2021,EPI_ISL_1124357,Europe / Denmark / Midtjylland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/IL-RIPHL_30197_G/2021,EPI_ISL_2476354,North America / USA / Illinois / Chicago,Human,7 months,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Netherlands/GE-RIVM-37395/2021,EPI_ISL_2474914,Europe / Netherlands / Gelderland,Human,56,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/SUS0000129/2021,EPI_ISL_1128868,Europe / Sweden / Skane,Human,65,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Finland/THL-202109233/2021,EPI_ISL_2506266,Europe / Finland,Human,27,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-019235/2021,EPI_ISL_1149397,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-77698/2021,EPI_ISL_1886339,Europe / Denmark / Hovedstaden,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Ireland/TA-NVRL-23IRL32749/2021,EPI_ISL_2533664,Europe / Ireland / Tipperary,Human,51-60,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/BC-BCCDC-77635/2021,EPI_ISL_2719751,North America / Canada / British Columbia,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/OCC-CHU-TLS-210731145101/2021,EPI_ISL_2352641,Europe / France / Occitanie / Haute-Garonne,Human,48,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/BC-BCCDC-43698/2021,EPI_ISL_2525872,North America / Canada / British Columbia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/VA-CDC-LC0066601/2021,EPI_ISL_2481116,North America / USA / Virginia,Human,6,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-023195/2021,EPI_ISL_1153362,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Slovakia/UVZ_PL18_E11_11427/2021,EPI_ISL_2598656,Europe / Slovakia / Kysucke Nove Mesto,Human,7,Male,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/2A42711430099/2021,EPI_ISL_2419921,Europe / Sweden / Norrbotten,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/VA-DCLS-5262/2021,EPI_ISL_2425466,North America / USA / Virginia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/CAMC-1347C21/2021,EPI_ISL_1224639,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Slovakia/UKBA-3009/2021,EPI_ISL_2562154,Europe / Slovakia / Bardonovo,Human,78,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Spain/CM-ISCIII-213845/2021,EPI_ISL_2495317,Europe / Spain / Castilla-La Mancha,Human,74,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/HE-RKI-I-177085/2021,EPI_ISL_2633625,Europe / Germany / Hesse,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-12FF931/2021,EPI_ISL_1256682,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Thailand/DMSc-00549/2021,EPI_ISL_2433456,Asia / Thailand / Tak,Human,unknown,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/UGent-7251/2021,EPI_ISL_2605547,Europe / Belgium / Ghent,Human,22,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/MI-UM-10038445622/2021,EPI_ISL_1200910,North America / USA / Michigan,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Italy/LAZ-INMI-881/2021,EPI_ISL_2602402,Europe / Italy / Lazio,Human,53,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Scotland/QEUH-135294A/2021,EPI_ISL_1246945,Europe / United Kingdom / Scotland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/KY-GD-051121-21050406120/2021,EPI_ISL_2602129,North America / USA / Kentucky,Human,45,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/MS-UMMC-M575E8-504920/2021,EPI_ISL_2426797,North America / USA / Mississippi,Human,56,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-108415/2021,EPI_ISL_2416830,Europe / Denmark / Hovedstaden,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/PAC-IHU-9840_Illu1/2021,EPI_ISL_2453959,Europe / France / Provence-Alpes-Cote d'Azur / Marseille,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Czech Republic/NRL_5341/2021,EPI_ISL_2439119,Europe / Czech Republic,Human,unknown,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-163528B/2021,EPI_ISL_2537874,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/rega-6327/2021,EPI_ISL_2424680,Europe / Belgium / La Louviere,Human,65,Male,G,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/IDF-HMN-21052270224/2021,EPI_ISL_2464533,Europe / France / Ile-de-France,Human,41,unknown,G,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/SK-NML-20933/2021,EPI_ISL_2563071,North America / Canada / Saskatchewan,Human,39,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/ON-PHL-21-18082/2021,EPI_ISL_2547595,North America / Canada / Ontario,Human,60-64,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Switzerland/GE-HUG-34328212/2021,EPI_ISL_2490648,Europe / Switzerland / Geneva,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Switzerland/SH-33014177/2021,EPI_ISL_2420722,Europe / Switzerland / Schaffhausen,Human,4,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/MI-MDHHS-SC26584/2021,EPI_ISL_1905709,North America / USA / Michigan,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-72388/2021,EPI_ISL_1880959,Europe / Denmark / Hovedstaden,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Finland/THL-202111911/2021,EPI_ISL_2507757,Europe / Finland,Human,45,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Lithuania/S21E272/2021,EPI_ISL_2428733,Europe / Lithuania / Kauno apskritis,Human,34,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/PAC-IHU-5722-N1/2021,EPI_ISL_2454273,Europe / France / Provence-Alpes-Cote d'Azur / Marseille,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/MILK-1386C17/2021,EPI_ISL_1242865,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/UGent-7026/2021,EPI_ISL_2605088,Europe / Belgium / Ghent,Human,14,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-132EBAB/2021,EPI_ISL_1174593,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Lithuania/LTU000_INMEDICA_422387/2021,EPI_ISL_2428198,Europe / Lithuania / Vilniaus apskritis,Human,32,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/UGent-7066/2021,EPI_ISL_2605121,Europe / Belgium / Ghent,Human,7,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/CO-CDPHE-2101139421/2021,EPI_ISL_2550191,North America / USA / Colorado,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/IL-RED-STE-41038068/2021,EPI_ISL_2474094,North America / USA / Illinois,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Netherlands/GE-RIVM-14987/2021,EPI_ISL_1165332,Europe / Netherlands / Gelderland,Human,73,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Israel/SMC-7003298/2021,EPI_ISL_2567011,Asia / Israel,Human,unknown,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-106907/2021,EPI_ISL_2430786,Europe / Denmark / Sjaelland,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/SK-NML-59881/2021,EPI_ISL_2564991,North America / Canada / Saskatchewan,Human,26,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/RAND-1313B5E/2021,EPI_ISL_1243552,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-178303/2021,EPI_ISL_2635191,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,O,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Switzerland/TG-ETHZ-640322/2021,EPI_ISL_2462773,Europe / Switzerland / Thurgau,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/WA-S7956/2021,EPI_ISL_2536494,North America / USA / Washington / Whitman County,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/SK-NML-21454/2021,EPI_ISL_2565616,North America / Canada / Saskatchewan,Human,32,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Lithuania/S21E824/2021,EPI_ISL_2428845,Europe / Lithuania / Vilniaus apskritis,Human,30,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/Aalst-OLVZ-8135137/2021,EPI_ISL_2402545,Europe / Belgium / Opwijk,Human,83,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/CAMC-1329153/2021,EPI_ISL_1174238,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-137C41C/2021,EPI_ISL_1244788,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-164989/2021,EPI_ISL_2388313,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-13670B6/2021,EPI_ISL_1223582,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/BY-RKI-I-024478/2021,EPI_ISL_1154651,Europe / Germany / Bavaria,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/101547196/2021,EPI_ISL_2416860,Europe / Sweden / Kronoberg,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-131BF2D/2021,EPI_ISL_1174018,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/SK-NML-71993/2021,EPI_ISL_2586741,North America / Canada / Saskatchewan,Human,23,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-13913AB/2021,EPI_ISL_1255507,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/RAND-12D7B0C/2021,EPI_ISL_1257100,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/CAMC-1314A41/2021,EPI_ISL_1175003,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/RP-RKI-I-025535/2021,EPI_ISL_1155717,Europe / Germany / Rhineland-Palatinate,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Portugal/PT3350/2021,EPI_ISL_1116727,Europe / Portugal,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Northern Ireland/RAND-1218F12/2021,EPI_ISL_1180007,Europe / United Kingdom / Northern Ireland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Slovakia/UKBA-1627/2021,EPI_ISL_1239382,Europe / Slovakia / Mútne Dulov,Human,55,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Netherlands/GE-RIVM-37229/2021,EPI_ISL_2475439,Europe / Netherlands / Gelderland,Human,17,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/UZA-UA-48028655/2021,EPI_ISL_2545628,Europe / Belgium / Loenhout,Human,56,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/BC-BCCDC-25384/2021,EPI_ISL_2522544,North America / Canada / British Columbia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Spain/NC-CHN-01003468/2021,EPI_ISL_2516801,Europe / Spain / Navarra,Human,31,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Poland/NIPH-NIH_ECDC-6614/2021,EPI_ISL_2566859,Europe / Poland / Opolskie / Kedzierzyn Kozle,Human,37,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/IDF-IPP12949/2021,EPI_ISL_2464068,Europe / France / Ile-de-France / Paris,Human,34,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Finland/THL-202111799/2021,EPI_ISL_2507682,Europe / Finland,Human,16,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/PAC-IHU-4014_Nova1/2021,EPI_ISL_2453391,Europe / France / Provence-Alpes-Cote d'Azur / Marseille,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/DC111213561/2021,EPI_ISL_2418049,Europe / Sweden / Halland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/EXET-146067/2021,EPI_ISL_1177773,Europe / United Kingdom / England,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-81344/2021,EPI_ISL_1889986,Europe / Denmark / Syddanmark,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/SK-NML-72033/2021,EPI_ISL_2586814,North America / Canada / Saskatchewan,Human,27,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Spain/AN-IBV-99029276/2021,EPI_ISL_2439263,Europe / Spain / Andalusia / Almeria,Human,55,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/ARA-HCL021027795301/2021,EPI_ISL_1200671,Europe / France / Auvergne-Rhone-Alpes / Lyon,Human,unknown,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Lithuania/LTU000_NMRVI81318/2021,EPI_ISL_1960186,Europe / Lithuania / Vilniaus apskritis,Human,47,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Czech Republic/NRL_8604/2021,EPI_ISL_2674239,Europe / Czech Republic / Moravian-Silesian Region,Human,35,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Ireland/WD-NVRL-e85IRL43454/2021,EPI_ISL_1132515,Europe / Ireland / Waterford,Human,unknown,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/PHEC-159E0D/2021,EPI_ISL_2737185,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-77203/2021,EPI_ISL_1885774,Europe / Denmark / Sjaelland,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/SH-RKI-I-012504/2021,EPI_ISL_1142637,Europe / Germany / Schleswig-Holstein,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Bulgaria/21BG-EU_000241_Pl3/2021,EPI_ISL_1231579,Europe / Bulgaria / Pazardzhik,Human,76,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Ireland/D-NVRL-30IRL79715/2021,EPI_ISL_2490877,Europe / Ireland / Dublin,Human,unknown,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/BY-RKI-I-020592/2021,EPI_ISL_1150755,Europe / Germany / Bavaria,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/SE1410304186/2021,EPI_ISL_2411950,Europe / Sweden / Vastra Gotaland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/FL-BPHL-3592/2021,EPI_ISL_2442655,North America / USA / Florida,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Spain/CL-COV00613/2021,EPI_ISL_1214421,Europe / Spain / Castilla y Leon,Human,unknown,Male,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Finland/THL-202111563/2021,EPI_ISL_2507483,Europe / Finland,Human,79,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-107485/2021,EPI_ISL_1851250,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/SK-NML-55248/2021,EPI_ISL_2564630,North America / Canada / Saskatchewan,Human,20,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/CAMC-1314BA8/2021,EPI_ISL_1175044,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/PAC-IHU-9437_Illu1/2021,EPI_ISL_2453633,Europe / France / Provence-Alpes-Cote d'Azur / Marseille,Human,unknown,unknown,G,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Poland/0823WSN2021_wsseol/2021,EPI_ISL_2500276,Europe / Poland / Warminsko-Mazurskie / Elcki,Human,1,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/TH-RKI-I-025036/2021,EPI_ISL_1155210,Europe / Germany / Thuringia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/FL-CDC-STM-000073066/2021,EPI_ISL_2599009,North America / USA / Florida,Human,53,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/FL-BPHL-3669/2021,EPI_ISL_2442732,North America / USA / Florida,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/ULG-12867/2021,EPI_ISL_1241685,Europe / Belgium / Liège,Human,23,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/RI-RISHL-E01193/2021,EPI_ISL_2425492,North America / USA / Rhode Island,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/UZA-UA-CV2054860932/2021,EPI_ISL_2483305,Europe / Belgium / Berchem,Human,16,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/BE-RKI-I-013413/2021,EPI_ISL_1143548,Europe / Germany / Berlin,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-104755/2021,EPI_ISL_2429557,Europe / Denmark / Sjaelland,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-13685C5/2021,EPI_ISL_1243782,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/BC-BCCDC-45508/2021,EPI_ISL_2527713,North America / Canada / British Columbia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-168895/2021,EPI_ISL_2469727,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Switzerland/VD-GEN2544/2021,EPI_ISL_1120834,Europe / Switzerland / Vaud,Human,28,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/MN-CDC-IBX836146282006/2021,EPI_ISL_2323656,North America / USA / Minnesota,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/AZ-ASU6428/2021,EPI_ISL_2484091,North America / USA / Arizona / Maricopa County,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/LA-EVTL3034/2021,EPI_ISL_2561962,North America / USA / Louisiana / Livingston Parish,Human,29,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-178411/2021,EPI_ISL_2635288,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-1371022/2021,EPI_ISL_1243706,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/IDF-HMN-21052270108/2021,EPI_ISL_2466074,Europe / France / Ile-de-France,Human,24,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Barbados/63491/2021,EPI_ISL_2545196,North America / Barbados,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/AR-CDC-ASC210107593/2021,EPI_ISL_2528280,North America / USA / Arkansas,Human,54,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Italy/CAM-AMES-27-79/2021,EPI_ISL_1169077,Europe / Italy / Campania / Napoli,Human,66,Female,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/CAMC-134D99D/2021,EPI_ISL_1244871,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/NC-CDC-LC0065961/2021,EPI_ISL_2480680,North America / USA / North Carolina,Human,26,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/MILK-13206A8/2021,EPI_ISL_1178111,Europe / United Kingdom / England,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/CHUNamur13412530/2021,EPI_ISL_2544715,Europe / Belgium / Luxembourg,Human,15,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/CAMC-13596D3/2021,EPI_ISL_1206218,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/WA-Altius-ALTCOV-MDDZE7P2PONN27UQ/2021,EPI_ISL_2473110,North America / USA / Washington,Human,41,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/SK-NML-62585/2021,EPI_ISL_2586141,North America / Canada / Saskatchewan,Human,23,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/CA-CDC-ASC210107091/2021,EPI_ISL_2528968,North America / USA / California,Human,44,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Scotland/QEUH-15DF48E/2021,EPI_ISL_2542614,Europe / United Kingdom / Scotland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Ireland/D-NVRL-e22IRL94335/2021,EPI_ISL_2533493,Europe / Ireland / Dublin,Human,unknown,Female,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-163880E/2021,EPI_ISL_2513148,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Scotland/QEUH-159592B/2021,EPI_ISL_2354266,Europe / United Kingdom / Scotland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/TX-CDC-QDX25088900/2021,EPI_ISL_2439619,North America / USA / Texas,Human,39,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-178736/2021,EPI_ISL_2635567,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/BRE-IPP12820/2021,EPI_ISL_2462913,Europe / France / Bretagne / Noyal Chatillon Sur Seiche,Human,23,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/CA-CZB-33406/2021,EPI_ISL_2496803,North America / USA / California,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-168866/2021,EPI_ISL_2469700,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-54603/2021,EPI_ISL_1863031,Europe / Denmark / Sjaelland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/SK-NML-20784/2021,EPI_ISL_2563011,North America / Canada / Saskatchewan,Human,64,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-13114FB/2021,EPI_ISL_1242518,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/HE-RKI-I-177108/2021,EPI_ISL_2633662,Europe / Germany / Hesse,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-1540F96/2021,EPI_ISL_1857748,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-136AD52/2021,EPI_ISL_1224106,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-138ED49/2021,EPI_ISL_1256303,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Poland/NIPH-NIH_ECDC-6148/2021,EPI_ISL_2495129,Europe / Poland / Lubelskie / Lublin,Human,30,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/WA-CDC-UW21052777645/2021,EPI_ISL_2497201,North America / USA / Washington,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/CO-CDC-MMB08712797/2021,EPI_ISL_2488945,North America / USA / Colorado,Human,15,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Bulgaria/21BG-EU_000278_Pl3/2021,EPI_ISL_1231605,Europe / Bulgaria / Burgas,Human,66,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/SUS0000170/2021,EPI_ISL_1176360,Europe / Sweden / Skane,Human,86,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Japan/PG-37880/2021,EPI_ISL_2326087,Asia / Japan / Okinawa,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Spain/MD-HRYC-11880827/2021,EPI_ISL_2558020,Europe / Spain / Madrid,Human,51,Male,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Japan/PG-43116/2021,EPI_ISL_2337181,Asia / Japan / Kanagawa,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Finland/THL-202109860/2021,EPI_ISL_2506740,Europe / Finland,Human,56,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/WA-CDC-UW21052425104/2021,EPI_ISL_2497410,North America / USA / Washington,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Curacao/CW-RIVM-15573/2021,EPI_ISL_1232248,South America / Curacao / Curacao,Human,20,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Switzerland/SO-ETHZ-640257/2021,EPI_ISL_2462746,Europe / Switzerland / Solothurn,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/WA-S8060/2021,EPI_ISL_2536597,North America / USA / Washington / Whatcom County,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/20112532P/2021,EPI_ISL_2417678,Europe / Sweden / Blekinge,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Estonia/16412428/2021,EPI_ISL_2601528,Europe / Estonia / Southern Estonia,Human,22,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Slovenia/246334/2021,EPI_ISL_2492058,Europe / Slovenia,Human,32,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Finland/6014/2021,EPI_ISL_2604772,Europe / Finland / Uusimaa,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/SN-RKI-I-032531/2021,EPI_ISL_1216714,Europe / Germany / Saxony,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Switzerland/BS-UHB-42861530/2021,EPI_ISL_2466577,Europe / Switzerland / Basel-Stadt,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/ST-RKI-I-171030/2021,EPI_ISL_2470875,Europe / Germany / Saxony-Anhalt,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Estonia/153553/2021,EPI_ISL_2601585,Europe / Estonia / Western Estonia,Human,21,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Wales/PHWC-PYFXTK/2021,EPI_ISL_2434961,Europe / United Kingdom / Wales,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/MB-NML-23497/2021,EPI_ISL_2495529,North America / Canada / Manitoba,Human,33,Male,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Finland/THL-202110320/2021,EPI_ISL_2506936,Europe / Finland,Human,57,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Netherlands/GE-RIVM-36782/2021,EPI_ISL_2474682,Europe / Netherlands / Gelderland,Human,54,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/SK-NML-60204/2021,EPI_ISL_2585788,North America / Canada / Saskatchewan,Human,7,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/WSFT-25CCDB3/2021,EPI_ISL_2752247,Europe / United Kingdom / England,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/TX-HMH-MCoV-27352/2021,EPI_ISL_1237134,North America / USA / Texas / Houston,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Mexico/YUC-InDRE_FB16575_S2745/2021,EPI_ISL_2533771,North America / Mexico / Yucatan,Human,49,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/NORW-22D1BD/2021,EPI_ISL_1178526,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Lithuania/S21E796/2021,EPI_ISL_2428820,Europe / Lithuania / Vilniaus apskritis,Human,19,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/RAND-1313857/2021,EPI_ISL_1243501,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/SE1410183470/2021,EPI_ISL_2411429,Europe / Sweden / Vastra Gotaland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/AB-ABPHL-14374/2021,EPI_ISL_2478027,North America / Canada / Alberta,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/PA-CDC-FG-035895/2021,EPI_ISL_2525966,North America / USA / Pennsylvania,Human,76,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-105069/2021,EPI_ISL_1849596,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Israel/CVL-1885/2021,EPI_ISL_1209662,Asia / Israel,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Scotland/QEUH-12DF2D2/2021,EPI_ISL_1123169,Europe / United Kingdom / Scotland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Taiwan/CGMH-CGU-72/2021,EPI_ISL_2544708,Asia / Taiwan / Taoyuan,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/MILK-138395F/2021,EPI_ISL_1224249,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/MILK-15F7C3D/2021,EPI_ISL_2435367,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/BC-BCCDC-50256/2021,EPI_ISL_2528717,North America / Canada / British Columbia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-168808/2021,EPI_ISL_2469651,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Switzerland/BL-32976539/2021,EPI_ISL_2420675,Europe / Switzerland / Basel-Landschaft,Human,36,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Netherlands/FL-RIVM-36875/2021,EPI_ISL_2475926,Europe / Netherlands / Flevoland,Human,16,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/NORW-22B8AB/2021,EPI_ISL_1178458,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/UMONS-P01-82636-01/2021,EPI_ISL_2466330,Europe / Belgium / Hainaut,Human,13,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/NORT-1BC61D8/2021,EPI_ISL_2434699,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/MD-CDC-LC0066454/2021,EPI_ISL_2480914,North America / USA / Maryland,Human,39,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Japan/PG-44476/2021,EPI_ISL_2338177,Asia / Japan / Chiba,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/AB-ABPHL-14500/2021,EPI_ISL_2478120,North America / Canada / Alberta,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/CAMC-137A180/2021,EPI_ISL_1244972,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Finland/THL-202109999/2021,EPI_ISL_2506852,Europe / Finland,Human,47,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/BFC-HMN-21062080426/2021,EPI_ISL_2637732,Europe / France / Bourgogne-Franche-Comte,Human,10,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Spain/CL-COV04555/2021,EPI_ISL_2957839,Europe / Spain / Castilla y Leon,Human,unknown,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-1606FAA/2021,EPI_ISL_2539311,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/ON-PHL-21-18652/2021,EPI_ISL_2548112,North America / Canada / Ontario,Human,40-44,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Spain/AN-IBV-98027606/2021,EPI_ISL_2465941,Europe / Spain / Andalusia / Granada,Human,25,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/BW-RKI-I-172932/2021,EPI_ISL_2472118,Europe / Germany / Baden-Wurttemberg,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-163923C/2021,EPI_ISL_2513213,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/MS-UMMC-S401C3-504926/2021,EPI_ISL_2426802,North America / USA / Mississippi,Human,38,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/IDF-IPP12954/2021,EPI_ISL_2464071,Europe / France / Ile-de-France / Paris,Human,36,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Lithuania/S21F93/2021,EPI_ISL_2495901,Europe / Lithuania / Vilniaus apskritis,Human,56,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-1295B46/2021,EPI_ISL_1176519,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Switzerland/GE-33413200/2021,EPI_ISL_1228785,Europe / Switzerland / Geneva,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/MI-UM-10039814246/2021,EPI_ISL_2400364,North America / USA / Michigan,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-72366/2021,EPI_ISL_1880937,Europe / Denmark / Hovedstaden,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/AB-ABPHL-14097/2021,EPI_ISL_2477848,North America / Canada / Alberta,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/AZDelta-10870-2121R/2021,EPI_ISL_2442259,Europe / Belgium / Jabbeke,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Italy/CAM-AMES-25-82/2021,EPI_ISL_1167311,Europe / Italy / Campania / Napoli,Human,28,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-105043/2021,EPI_ISL_1849560,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-13050C9/2021,EPI_ISL_1175635,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/GA-GPHL-0452/2021,EPI_ISL_2467524,North America / USA / Georgia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Ireland/WX-NVRL-e85IRL44369/2021,EPI_ISL_1132467,Europe / Ireland / Wexford,Human,51-60,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/BC-BCCDC-56920/2021,EPI_ISL_2531972,North America / Canada / British Columbia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/SK-NML-74380/2021,EPI_ISL_2587681,North America / Canada / Saskatchewan,Human,28,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Lithuania/S21E851/2021,EPI_ISL_2428871,Europe / Lithuania / Vilniaus apskritis,Human,49,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-72863/2021,EPI_ISL_1881434,Europe / Denmark / Sjaelland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/OR-CDC-ASC210105801/2021,EPI_ISL_2489608,North America / USA / Oregon,Human,13,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/10073614/2021,EPI_ISL_2415164,Europe / Sweden / Stockholm,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/OCC-CERBAHC-AH3J52BGXJ-S140/2021,EPI_ISL_2425557,Europe / France / Occitanie,Human,39,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/ULG-12659/2021,EPI_ISL_1165850,Europe / Belgium / Luxembourg,Human,66,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-029514/2021,EPI_ISL_1212635,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/TN-CDC-ASC210107122/2021,EPI_ISL_2529015,North America / USA / Tennessee,Human,15,Female,G,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/BE-RKI-I-168950/2021,EPI_ISL_2469768,Europe / Germany / Berlin,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/101590695/2021,EPI_ISL_2981031,Europe / Sweden / Kronoberg,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-1398D3D/2021,EPI_ISL_1256704,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/ARA-HCL021102345501/2021,EPI_ISL_2567453,Europe / France / Auvergne-Rhone-Alpes / Cluses,Human,45,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/NJ-CDC-2-4451462/2021,EPI_ISL_2451874,North America / USA / New Jersey,Human,44,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/NE-CUMC_21130062/2021,EPI_ISL_2562517,North America / USA / Nebraska,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Lithuania/S21E1109/2021,EPI_ISL_2510840,Europe / Lithuania / Vilniaus apskritis,Human,71,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/MBLGPF658457/2021,EPI_ISL_2492378,Europe / Belgium / Brussels,Human,8,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/HE-RKI-I-024500/2021,EPI_ISL_1154673,Europe / Germany / Hesse,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/AZ-ASU6483/2021,EPI_ISL_2484130,North America / USA / Arizona / Coconino County,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Estonia/16048498/2021,EPI_ISL_2545841,Europe / Estonia / North-Eastern Estonia,Human,24,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/BFC-HMN-21062080487/2021,EPI_ISL_2637795,Europe / France / Bourgogne-Franche-Comte,Human,33,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/OR-OHSU-11479/2021,EPI_ISL_2462129,North America / USA / Oregon / Multnomah County,Human,unknown,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/IL-CDC-ASC210032402/2021,EPI_ISL_2421833,North America / USA / Illinois,Human,49,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-108905/2021,EPI_ISL_1852536,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/TH-RKI-I-015590/2021,EPI_ISL_1145752,Europe / Germany / Thuringia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/CAMC-135AA5E/2021,EPI_ISL_1223230,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/MILK-1383D9F/2021,EPI_ISL_1224306,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-136C5C1/2021,EPI_ISL_1244297,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/NORW-13D81CC/2021,EPI_ISL_2519539,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-15E443B/2021,EPI_ISL_2437421,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/RP-RKI-I-172239/2021,EPI_ISL_2471570,Europe / Germany / Rhineland-Palatinate,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/FL-BPHL-0901/2021,EPI_ISL_1218703,North America / USA / Florida,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-50478/2021,EPI_ISL_1126869,Europe / Denmark / Syddanmark,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-48970/2021,EPI_ISL_1125356,Europe / Denmark / Hovedstaden,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-1389230/2021,EPI_ISL_1243355,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Portugal/PT3957/2021,EPI_ISL_1116989,Europe / Portugal,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/MBLGOT271347/2021,EPI_ISL_2427397,Europe / Belgium / Walloon Brabant,Human,67,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/BY-MVP-000006023/2021,EPI_ISL_2450251,Europe / Germany / Bavaria / Munich,Human,26,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-12E4E6D/2021,EPI_ISL_1174972,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/rega-7543/2021,EPI_ISL_2424989,Europe / Belgium / Maasmechelen,Human,33,Male,G,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/TX-CDC-STM-000073692/2021,EPI_ISL_2440415,North America / USA / Texas,Human,39,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/20156346P/2021,EPI_ISL_2417741,Europe / Sweden / Blekinge,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/SUS0001380/2021,EPI_ISL_1968792,Europe / Sweden / Skane,Human,16,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/MN-CDC-IBX882730792758/2021,EPI_ISL_2282851,North America / USA / Minnesota,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/OR-OHSU-11613/2021,EPI_ISL_2462254,North America / USA / Oregon / Clackamas County,Human,unknown,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-131FBBC/2021,EPI_ISL_1175077,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Bangladesh/CHRF-0293_CU/2021,EPI_ISL_2445990,Asia / Bangladesh / Chittagong,Human,38,Female,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Scotland/QEUH-1632E8A/2021,EPI_ISL_2542042,Europe / United Kingdom / Scotland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/NW-RKI-I-168759/2021,EPI_ISL_2469608,Europe / Germany / North Rhine-Westphalia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/MILK-136F388/2021,EPI_ISL_1223713,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/MD-IGS-042112100963A/2021,EPI_ISL_2501799,North America / USA / Maryland,Human,34,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/RI-CDC-ASC210042067/2021,EPI_ISL_2421746,North America / USA / Rhode Island,Human,18,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/NORT-1BC8B6F/2021,EPI_ISL_2518192,Europe / United Kingdom / England,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-49992/2021,EPI_ISL_1126383,Europe / Denmark / Sjaelland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Poland/PL_P3202/2021,EPI_ISL_2423465,Europe / Poland / Slaskie / Prudnik,Human,66,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/CA-CDC-QDX25164357/2021,EPI_ISL_2439320,North America / USA / California,Human,44,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/MA-CDC-QDX25249474/2021,EPI_ISL_2440709,North America / USA / Massachusetts,Human,21,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/20068379P/2021,EPI_ISL_2419270,Europe / Sweden / Vasternorrland,Human,unknown,unknown,G,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Italy/LAZ-IFO-04190309/2021,EPI_ISL_2577013,Europe / Italy / Lazio / Rome,Human,unknown,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Spain/GA-CHUVI-19220798/2021,EPI_ISL_2516958,Europe / Spain / Galicia / Vigo,Human,26,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Lithuania/LTU000_NMVRI_111970/2021,EPI_ISL_2428440,Europe / Lithuania / Vilniaus apskritis,Human,34,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/BW-RKI-I-178405/2021,EPI_ISL_2635283,Europe / Germany / Baden-Wurttemberg,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Netherlands/NH-RIVM-37520/2021,EPI_ISL_2474971,Europe / Netherlands / Noord-Holland,Human,53,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/India/JK-NCDC-180967/2021,EPI_ISL_2556615,Asia / India / Jammu and Kashmir,Human,58,Female,G,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Scotland/QEUH-138982F/2021,EPI_ISL_1257397,Europe / United Kingdom / Scotland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/PAC-IHU-9498_Illu1/2021,EPI_ISL_2453679,Europe / France / Provence-Alpes-Cote d'Azur / Marseille,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Spain/CT-HUVH-EX04704/2021,EPI_ISL_2284966,Europe / Spain / Catalunya,Human,58,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Finland/5664/2021,EPI_ISL_2604640,Europe / Finland / Uusimaa,Human,unknown,unknown,O,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/FL-CDC-QDX25309523/2021,EPI_ISL_2451331,North America / USA / Florida,Human,46,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Ireland/WX-NVRL-e90IRL72014/2021,EPI_ISL_2533341,Europe / Ireland / Wexford,Human,51-60,Female,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/ARA-CFD210024272901/2021,EPI_ISL_1853286,Europe / France / Auvergne-Rhone-Alpes / Clermont Ferrand,Human,27,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Slovakia/UVZ_PL17_C6_11324/2021,EPI_ISL_2598535,Europe / Slovakia / Trnava,Human,41,Male,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Scotland/QEUH-1641AB1/2021,EPI_ISL_2542264,Europe / United Kingdom / Scotland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/WA-Altius-ALTCOV-HDSEQ63HXJKWPMVM/2021,EPI_ISL_2473222,North America / USA / Washington,Human,21,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/GES-HCL021101035301/2021,EPI_ISL_2567416,Europe / France / Grand Est / Altkirch,Human,unknown,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Norway/13996/2021,EPI_ISL_2567273,Europe / Norway / Oslo,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Netherlands/NH-RIVM-16009/2021,EPI_ISL_1232684,Europe / Netherlands / Noord-Holland,Human,21,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-50432/2021,EPI_ISL_1126823,Europe / Denmark / Syddanmark,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Switzerland/BL-ETHZ-640271/2021,EPI_ISL_2462766,Europe / Switzerland / Basel-Landschaft,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Scotland/QEUH-15ADC27/2021,EPI_ISL_2353942,Europe / United Kingdom / Scotland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Wales/PHWC-4D5756/2021,EPI_ISL_1179245,Europe / United Kingdom / Wales,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Ghana/FS-21-403/2021,EPI_ISL_2535834,Africa / Ghana / Accra,Human,29,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Japan/h3-6/2021,EPI_ISL_2509373,Asia / Japan / Osaka,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Ireland/KE-NVRL-e85IRL49468/2021,EPI_ISL_1132816,Europe / Ireland / Kildare,Human,21-30,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/WA-S8614/2021,EPI_ISL_2715028,North America / USA / Washington / King County,Human,unknown,unknown,G,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Norway/13286/2021,EPI_ISL_2491500,Europe / Norway / Vestfold og Telemark,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Israel/CVL-2622/2021,EPI_ISL_1209692,Asia / Israel,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-12DC84C/2021,EPI_ISL_1177444,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-109194/2021,EPI_ISL_2417783,Europe / Denmark / Hovedstaden,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/ON-PHL-21-17131/2021,EPI_ISL_2452573,North America / Canada / Ontario,Human,30-34,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/20139950P/2021,EPI_ISL_2418710,Europe / Sweden / Dalarna,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Spain/CT-HUVH-E47960/2021,EPI_ISL_2458117,Europe / Spain / Catalunya,Human,42,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/SK-NML-48925/2021,EPI_ISL_2564481,North America / Canada / Saskatchewan,Human,23,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/CAMC-135A5E4/2021,EPI_ISL_1223342,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-1300D9A/2021,EPI_ISL_1243510,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/ON-PHL-21-14052/2021,EPI_ISL_2452316,North America / Canada / Ontario,Human,25-29,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/MI-CDC-ASC210032510/2021,EPI_ISL_2421907,North America / USA / Michigan,Human,29,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/MILK-12C6757/2021,EPI_ISL_1178085,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/India/HP-NCDC-1909173/2021,EPI_ISL_2556964,Asia / India / Himachal Pradesh,Human,53,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Slovenia/08-116261-MB/2021,EPI_ISL_2463407,Europe / Slovenia / Pomurska,Human,56,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/QEUH-136B1BF/2021,EPI_ISL_1224034,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/CO-CDC-MMB08809701/2021,EPI_ISL_2440950,North America / USA / Colorado,Human,47,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Lithuania/LTU000_NMVRI_109894/2021,EPI_ISL_2428298,Europe / Lithuania / Vilniaus apskritis,Human,67,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/MI-MDHHS-SC29340/2021,EPI_ISL_2557811,North America / USA / Michigan,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Netherlands/LI-RIVM-36128/2021,EPI_ISL_2475231,Europe / Netherlands / Limburg,Human,38,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Netherlands/UT-RIVM-36833/2021,EPI_ISL_2474710,Europe / Netherlands / Utrecht,Human,66,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-67437/2021,EPI_ISL_1876008,Europe / Denmark / Hovedstaden,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/MILK-160B34F/2021,EPI_ISL_2469272,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-106156/2021,EPI_ISL_2413781,Europe / Denmark / Hovedstaden,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Spain/NC-CHN-01003261/2021,EPI_ISL_2516601,Europe / Spain / Navarra,Human,19,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/10075563/2021,EPI_ISL_2414570,Europe / Sweden / Stockholm,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/MILK-13772AE/2021,EPI_ISL_1244149,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/TH-RKI-I-168989/2021,EPI_ISL_2469806,Europe / Germany / Thuringia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/PHEC-2FD611/2021,EPI_ISL_2739432,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/MA-CDC-QDX25497804/2021,EPI_ISL_2529125,North America / USA / Massachusetts,Human,44,Male,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/ON-PHL-21-18747/2021,EPI_ISL_2548201,North America / Canada / Ontario,Human,40-44,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/BW-RKI-I-168696/2021,EPI_ISL_2469549,Europe / Germany / Baden-Wurttemberg,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Belgium/rega-6736/2021,EPI_ISL_2425036,Europe / Belgium / Sint-Lambrechts-Woluwe,Human,41,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Denmark/DCGC-73572/2021,EPI_ISL_1882143,Europe / Denmark / Midtjylland,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Sweden/20162470P/2021,EPI_ISL_2419595,Europe / Sweden / Jamtland Harjedalen,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/BE-RKI-I-173235/2021,EPI_ISL_2472393,Europe / Germany / Berlin,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/BE-RKI-I-022389/2021,EPI_ISL_1152555,Europe / Germany / Berlin,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Guadeloupe/IPP12863/2021,EPI_ISL_2462933,North America / Guadeloupe / Pointe-a-Pitre,Human,81,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/NC-CDC-LC0066774/2021,EPI_ISL_2481012,North America / USA / North Carolina,Human,61,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Estonia/16833591/2021,EPI_ISL_2546953,Europe / Estonia / Western Estonia,Human,65,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/ALDP-1294DC9/2021,EPI_ISL_1176417,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Germany/BE-RKI-I-169600/2021,EPI_ISL_2470137,Europe / Germany / Berlin,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Poland/NIPH-NIH_ECDC-472/2021,EPI_ISL_1239625,Europe / Poland / Slaskie / Katowice,Human,56,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/NORT-1BC4F58/2021,EPI_ISL_2434434,Europe / United Kingdom / England,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Scotland/QEUH-131F25D/2021,EPI_ISL_1257778,Europe / United Kingdom / Scotland,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/WI-WSLH-214948/2021,EPI_ISL_2558155,North America / USA / Wisconsin / Brown County,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/ARA-HCL121012594101/2021,EPI_ISL_2567518,Europe / France / Auvergne-Rhone-Alpes / Lyon,Human,83,Female,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/England/MILK-136D4D2/2021,EPI_ISL_1205952,Europe / United Kingdom / England,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/Canada/BC-BCCDC-56888/2021,EPI_ISL_2531931,North America / Canada / British Columbia,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/France/PAC-IHU-8928_Illu1/2021,EPI_ISL_2286095,Europe / France / Provence-Alpes-Cote d'Azur / Marseille,Human,unknown,unknown,GR,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
+hCoV-19/USA/WI-WSLH-215295/2021,EPI_ISL_2558486,North America / USA / Wisconsin / Brown County,Human,unknown,unknown,GRY,VOC Alpha GRY (B.1.1.7+Q.*) first detected in the UK,Alpha
