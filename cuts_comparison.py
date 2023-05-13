@@ -1,7 +1,7 @@
-from CoT-RNA-Transfer.model import CoT_RNA_Transfer
+from model.model import CoT_RNA_Transfer
 import argparse
-from CoT-RNA-Transfer.create_dataset import *
-from CoT-RNA-Transfer.misc import *
+from create_dataset import *
+from misc import *
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
