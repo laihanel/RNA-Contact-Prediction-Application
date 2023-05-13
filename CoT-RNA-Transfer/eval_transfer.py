@@ -1,7 +1,7 @@
 #### import from coconet
 
 #### import from co-evolution transformer
-from CoT_Transfer_Learning.model import Model, ClassificationHead1, ClassificationHead2
+from CoT-RNA-Transfer.model import Model, ClassificationHead1, ClassificationHead2
 
 #### essential packages
 import argparse

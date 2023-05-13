@@ -169,6 +169,6 @@ def sparse_mx_to_torch_sparse_tensor(sparse_mx):
     return torch.sparse.FloatTensor(indices, values, shape)
 
 if __name__ == "__main__":
-    adj, features, labels, idx_train, idx_val, idx_test = load_data("../CoT_Transfer_Learning/data/hiv/hiv_V3_B_C_nu_clean.fasta",
-                                                                    "../CoT_Transfer_Learning/data/hiv/results_V3_B_C_meta.csv",
-                                                                    "../CoT_Transfer_Learning/outputs/pred.txt")
+    adj, features, labels, idx_train, idx_val, idx_test = load_data("../CoT-RNA-Transfer/data/hiv/hiv_V3_B_C_nu_clean.fasta",
+                                                                    "../CoT-RNA-Transfer/data/hiv/results_V3_B_C_meta.csv",
+                                                                    "../CoT-RNA-Transfer/outputs/pred.txt")

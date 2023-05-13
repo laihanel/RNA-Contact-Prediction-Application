@@ -1,6 +1,6 @@
-from CoT_Transfer_Learning.model import CoT_RNA_Transfer
+from CoT-RNA-Transfer.model import CoT_RNA_Transfer
 import argparse
-from CoT_Transfer_Learning.create_dataset import *
+from CoT-RNA-Transfer.create_dataset import *
 
 logger = logging.getLogger(__name__)
 

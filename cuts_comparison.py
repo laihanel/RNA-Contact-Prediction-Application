@@ -1,7 +1,7 @@
-from CoT_Transfer_Learning.model import CoT_RNA_Transfer
+from CoT-RNA-Transfer.model import CoT_RNA_Transfer
 import argparse
-from CoT_Transfer_Learning.create_dataset import *
-from CoT_Transfer_Learning.misc import *
+from CoT-RNA-Transfer.create_dataset import *
+from CoT-RNA-Transfer.misc import *
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
@@ -43,7 +43,7 @@ def msa_to_embed(msa_path, max_seqs=200, AminoAcids='HETL'):
         L = len(lines[1].strip())
 
     program = [
-        os.path.join(os.path.dirname(__file__), "CoT_Transfer_Learning/bin/a3m_to_feat"),
+        os.path.join(os.path.dirname(__file__), "CoT-RNA-Transfer/bin/a3m_to_feat"),
         "--input",
         tmp_path,
         "--max_gap",

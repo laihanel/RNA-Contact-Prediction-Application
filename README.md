@@ -17,6 +17,11 @@ explanations for RNA structure and open up avenues for new research in the field
 molecular biology.
 
 ## Environment Requirements
+### Clone repository
+```angular2html
+git clone https://github.com/laihanel/RNA-Contact-Prediction-Application.git
+cd RNA-Contact-Prediction-Application
+```
 ### CoT Transfer Learning
 ```bash
 conda create -n pytorch-1.8 python=3.7
@@ -49,9 +54,9 @@ python setup.py install
 ```bash
 # contact prediction
 ## change to the cot_transfer_learning environment first
-cd CoT_Transfer_Learning
+cd CoT-RNA-Transfer
 unzip data/HIV/HIV.zip -d data/HIV/
-python tidyup_data.py --input data/HIV/hiv_V3_B_C_nu_clean.fasta -- output data/HIV/hiv.fasta
+python tidyup_data.py --input data/HIV/hiv_V3_B_C_nu_clean.fasta --output data/HIV/hiv.fasta
 python run_inference.py --input_MSA data/HIV/hiv.fasta
 
 # deepbreaks
