@@ -2,7 +2,7 @@
 Aihan Liu, Hsueh-Yi Lu
 
 ---
-<img src="Presentation/Workflow.png">
+![workflow](Presentation/Workflow.png)
 
 ## Introduction
 This project focuses on using transformers to extract structural information for
@@ -90,7 +90,7 @@ The research indicates that with a large number of samples for training, the con
 
 ## Feature Importance
 Certain positions in the sequence appear to be more relevant than others. Some of these positions align with the contact matrix, as shown by the red points in the figure. This provides an explainable result for RNA structure prediction. The research suggests that studying the feature importance can offer valuable insights into RNA structure and function.
-<img src="Presentation/Results.png">
+![result](Presentation/Results.png)
 
 ## Future Work
 The project opens up new avenues for further research and exploration. Future directions include:
