@@ -50,6 +50,11 @@ python setup.py install
   * PyTorch 0.4 or 0.5
   * Python 2.7 or 3.6
 
+### Deactivate environment
+```angular2html
+conda deactivate
+```
+
 ## Example
 ```bash
 # contact prediction
@@ -69,7 +74,7 @@ Follow these steps to use the deepBreaks environment and run the examples:
 # GCN prediction
 ## change to the GCN environment first
 cd ../pygcn
-python train.py
+python train.py --input_msa "../CoT-RNA-Transfer/data/HIV/hiv_V3_B_C_nu_clean.fasta" --input_meta "../CoT-RNA-Transfer/data/HIV/results_V3_B_C_meta.csv"
 ```
 
 ## Results
